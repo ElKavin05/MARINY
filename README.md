@@ -12,3 +12,5 @@ Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. 
 
 
 Refinamiento de contacto: botón «Más información» con icono de WhatsApp y botonera en el pie con WhatsApp, Instagram y Threads. Threads confirmado por Kevin: https://www.threads.com/@mariny_events. La franja del arte tiene borde redondeado y fondo gris translúcido.
+
+Ajuste vigente 18/11/2026: estrellas uniformes en amarillo #ffc928, incluidas las de texto SVG; pulso infinito suave en la estrella introductoria con pausa y movimiento reducido. La última cinta tiene base recta y relleno continuo hacia la sección negra. Logo activo en PNG transparente, conservando el original como fuente.

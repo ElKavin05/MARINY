@@ -95,7 +95,7 @@ dialog.addEventListener('keydown', event => {
 document.querySelectorAll('[data-direction]').forEach(button => button.addEventListener('click', () => movePhoto(Number(button.dataset.direction))));
 renderGallery();
 
-const motionSurfaces = document.querySelectorAll('.floral-stage,.wave-divider,.brand,.dynamic-frame,.floating-contact');
+const motionSurfaces = document.querySelectorAll('.floral-stage,.wave-divider,.brand,.dynamic-frame,.floating-contact,.floral-mark');
 if ('IntersectionObserver' in window) {
   const observer = new IntersectionObserver(entries => entries.forEach(entry => entry.target.classList.toggle('motion-visible', entry.isIntersecting)), {rootMargin:'60px'});
   motionSurfaces.forEach(surface => observer.observe(surface));
@@ -111,4 +111,13 @@ motionToggle.addEventListener('click', () => {
 
 document.querySelectorAll('.dynamic-frame').forEach(frame => {
   frame.insertAdjacentHTML('afterbegin', '<svg class="frame-trace" viewBox="0 0 500 500" preserveAspectRatio="none" aria-hidden="true"><rect x="1" y="1" width="498" height="498" rx="25" pathLength="100"/></svg><span class="frame-star" aria-hidden="true">✧</span>');
+});
+
+document.querySelectorAll('.ribbon-divider').forEach(ribbon => {
+  const fallback = document.createElement('span');
+  fallback.className = 'ribbon-static';
+  fallback.setAttribute('aria-hidden','true');
+  const start = document.createElement('span'); start.className='static-star'; start.textContent='✦';
+  const phrase = document.createElement('span'); phrase.textContent=ribbon.getAttribute('aria-label');
+  fallback.append(start, phrase, start.cloneNode(true)); ribbon.append(fallback);
 });

@@ -14,3 +14,5 @@ Rediseño monocromático del mismo día: repetidas las pruebas de 320, 390, 768,
 Limitaciones: algunas imágenes son portadas de videos de Instagram. Arte de portada interpretativo, identificado en su texto alternativo y pie. Sin publicación remota.
 
 Refinamiento posterior: acuarela a color contenida en escritorio y móvil; captura completa revisada. Sin desbordamiento ni recursos rotos en 320,390,768,1084,1440 px. Galería y mensaje contextual de WhatsApp sin errores JS. Animaciones en marcha, pausa y movimiento reducido comprobados. Lazos SVG sin margen lateral por preservación de aspecto; en modo reducido presentan la frase completa sin desplazamiento. Iconos y Threads presentes en botonera.
+
+Estrellas/transparencia: QA repetido en cinco anchuras sin desbordamientos ni imágenes rotas. Galería y mensaje WhatsApp correctos, sin errores JS. Todas las estrellas HTML/SVG calculan rgb(255,201,40). Pulso de introducción running, pausa paused y movimiento reducido none. PNG RGBA comprobado con alfa real y sin blancos opacos. Capturas de unión a sección negra y pie revisadas: sin huecos blancos ni recuadro de fondo en logo.
