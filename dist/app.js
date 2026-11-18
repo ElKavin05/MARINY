@@ -101,14 +101,6 @@ if ('IntersectionObserver' in window) {
   motionSurfaces.forEach(surface => observer.observe(surface));
 }
 
-const motionToggle = document.querySelector('.motion-toggle');
-motionToggle.addEventListener('click', () => {
-  const paused = document.documentElement.classList.toggle('motion-paused');
-  motionToggle.setAttribute('aria-pressed', String(paused));
-  motionToggle.setAttribute('aria-label', paused ? 'Reanudar las animaciones de la página' : 'Pausar las animaciones de la página');
-  motionToggle.innerHTML = paused ? 'Reanudar animación <span aria-hidden="true">▷</span>' : 'Pausar animación <span aria-hidden="true">Ⅱ</span>';
-});
-
 document.querySelectorAll('.dynamic-frame').forEach(frame => {
   frame.insertAdjacentHTML('afterbegin', '<svg class="frame-trace" viewBox="0 0 500 500" preserveAspectRatio="none" aria-hidden="true"><rect x="1" y="1" width="498" height="498" rx="25" pathLength="100"/></svg><span class="frame-star" aria-hidden="true">✧</span>');
 });
