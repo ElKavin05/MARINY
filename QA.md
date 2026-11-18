@@ -22,3 +22,5 @@ Publicación 18/11/2026: Cloudflare Pages mariny conectado a ElKavin05/MARINY, r
 CTA de Instagram en galería convertido en botón negro redondeado el 18/11/2026. Revisado a 320,390,1440 px, sin desbordamiento, altura 66 px y destino https://www.instagram.com/mariny_events/ en nueva pestaña.
 
 Revisión final del CTA de Instagram: etiqueta sin relleno, contorno gris fino y radio de 12 px, por corrección del usuario (18/11/2026). Conserva destino y apertura en nueva pestaña.
+
+Ubicación confirmada por Kevin el 18/11/2026: Estamos ubicados en Ciudad de Panamá y Ciudad de Colón. Visible con icono en portada y contacto del pie. Revisión a 320,390,1440 px sin desbordamiento.
