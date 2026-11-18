@@ -18,3 +18,5 @@ Refinamiento posterior: acuarela a color contenida en escritorio y móvil; captu
 Estrellas/transparencia: QA repetido en cinco anchuras sin desbordamientos ni imágenes rotas. Galería y mensaje WhatsApp correctos, sin errores JS. Todas las estrellas HTML/SVG calculan rgb(255,201,40). Pulso de introducción running, pausa paused y movimiento reducido none. PNG RGBA comprobado con alfa real y sin blancos opacos. Capturas de unión a sección negra y pie revisadas: sin huecos blancos ni recuadro de fondo en logo.
 
 Publicación 18/11/2026: Cloudflare Pages mariny conectado a ElKavin05/MARINY, rama main, dist/. Estado success para bd4fbbd7-e925-4489-b096-b3b821da40e4. HTTPS público revisado a 390 y 1440 px, imágenes, filtros, modal y consulta WhatsApp correctos. Sin errores JavaScript ni desbordamiento. Comparados 19/19 archivos con hashes (texto normalizado LF), todos coinciden. Capturas públicas en tmp/public-*.png.
+
+CTA de Instagram en galería convertido en botón negro redondeado el 18/11/2026. Revisado a 320,390,1440 px, sin desbordamiento, altura 66 px y destino https://www.instagram.com/mariny_events/ en nueva pestaña.
