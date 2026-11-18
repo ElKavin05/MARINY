@@ -39,6 +39,7 @@ const photographs = [
   {id:1,category:'Bodas',title:'El comienzo de una historia',alt:'Ceremonia de boda con telas blancas y flores a ambos lados'},
   {id:11,category:'Celebraciones',title:'Una mesa para compartir',alt:'Mesa de celebración con flores blancas y amarillas y copas'},
 ];
+const photographDescriptions = ["Una entrada que invita a vivir el gran día: flores y luz para acompañar ese primer momento de la celebración.", "Una idea llena de alegría, con globos y detalles que convierten un cumpleaños en un mundo propio.", "El encanto de sentarse a compartir: texturas, cristalería y pequeños detalles que hacen sentir bienvenidos a tus invitados.", "Un montaje para celebrar una fecha importante en familia, con una combinación de globos y flores que enmarca el momento.", "Flores que se encuentran en una composición con carácter. Una inspiración para llevar tu estilo a los detalles de tu evento.", "Una mesa que invita a quedarse: flores, velas y cristalería pensadas para acompañar la conversación.", "Un toque floral puede cambiar por completo una mesa. Los detalles sencillos también cuentan una historia.", "El entorno acompaña a quienes celebran. Una ceremonia donde las flores y las telas enmarcan un nuevo comienzo.", "Una mesa preparada para recibir, compartir y disfrutar. Cuéntanos cómo imaginas la de tu próxima celebración."];
 const grid = document.querySelector('#gallery-grid');
 const dialog = document.querySelector('#photo-dialog');
 const dialogImage = document.querySelector('#dialog-image');
@@ -66,7 +67,7 @@ function renderGallery(category = 'Todos') {
     button.className = 'gallery-card';
     button.type = 'button';
     button.setAttribute('aria-label', `Ampliar ${photo.title.toLowerCase()}`);
-    button.innerHTML = `<div class="gallery-image"><img src="${photoSrc(photo)}" width="540" height="720" loading="lazy" alt="${photo.alt}"></div><div class="gallery-caption"><span>${photo.title}</span><span aria-hidden="true">↗</span></div>`;
+    button.innerHTML = `<div class="gallery-image"><img src="${photoSrc(photo)}" width="540" height="720" loading="lazy" alt="${photo.alt}"></div><div class="gallery-caption"><span>${photo.title}</span><span aria-hidden="true">↗</span></div><p class="gallery-description">${photographDescriptions[photographs.indexOf(photo)]}</p><span class="photo-action">Ver fotografía <span aria-hidden="true">+</span></span>`;
     button.addEventListener('click', () => {
       photoIndex = index;
       galleryTrigger = button;
@@ -93,3 +94,17 @@ dialog.addEventListener('keydown', event => {
 });
 document.querySelectorAll('[data-direction]').forEach(button => button.addEventListener('click', () => movePhoto(Number(button.dataset.direction))));
 renderGallery();
+
+const motionSurfaces = document.querySelectorAll('.floral-stage,.wave-divider');
+if ('IntersectionObserver' in window) {
+  const observer = new IntersectionObserver(entries => entries.forEach(entry => entry.target.classList.toggle('motion-visible', entry.isIntersecting)), {rootMargin:'60px'});
+  motionSurfaces.forEach(surface => observer.observe(surface));
+}
+
+const motionToggle = document.querySelector('.motion-toggle');
+motionToggle.addEventListener('click', () => {
+  const paused = document.documentElement.classList.toggle('motion-paused');
+  motionToggle.setAttribute('aria-pressed', String(paused));
+  motionToggle.setAttribute('aria-label', paused ? 'Reanudar las animaciones de la página' : 'Pausar las animaciones de la página');
+  motionToggle.innerHTML = paused ? 'Reanudar animación <span aria-hidden="true">▷</span>' : 'Pausar animación <span aria-hidden="true">Ⅱ</span>';
+});

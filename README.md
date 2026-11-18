@@ -6,5 +6,7 @@ WhatsApp confirmado por Kevin: +507 6460-9658. Perfil autorizado como fuente: ht
 
 Doce imágenes públicas seleccionadas, incluidas portadas de videos. Originales en assets/originals y versiones WebP en dist/assets. Algunas portadas contienen desenfoque original. Se conservaron los montajes y colores. La muestra usa nueve imágenes en galería filtrable, selección por servicio, ampliación accesible y formulario que prepara WhatsApp, sin enviar mensajes ni almacenar datos. Sin backend.
 
-Marca tipográfica provisional, no reproduce un logotipo oficial. Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. Sin publicación ni repositorio remoto. Fuentes de imágenes en assets/sources.json.
+Rediseño del 18/11/2026: logo original suministrado por Kevin, visible en cabecera y pie sin reconstruir sus letras. Paleta blanca, negra y gris; botones redondeados, servicios y galería tipo Polaroid con descripciones ampliadas. Las fotos de trabajos conservan sus colores. Portada con interpretación artística en grafito del arreglo de evento-03; se identifica como arte y los originales siguen disponibles en la galería. Ondas, destellos y líneas botánicas animadas mediante CSS, pausadas fuera de pantalla, con control global y respeto por movimiento reducido. Sin selector de tema por decisión final del usuario.
+
+Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. Sin publicación ni repositorio remoto. Fuentes en assets/sources.json y assets/MEDIA.md. Ver QA.md.
 
