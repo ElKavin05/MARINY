@@ -113,3 +113,9 @@ document.querySelectorAll('.ribbon-divider').forEach(ribbon => {
   const phrase = document.createElement('span'); phrase.textContent=ribbon.getAttribute('aria-label');
   fallback.append(start, phrase, start.cloneNode(true)); ribbon.append(fallback);
 });
+
+document.querySelectorAll('[data-location-city]').forEach(link => {
+  link.href = whatsappUrl(`Hola, Mariny Events. Me gustaría consultar el punto de atención en ${link.dataset.locationCity} y coordinar una consulta sobre mi evento.`);
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+});

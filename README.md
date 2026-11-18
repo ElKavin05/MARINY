@@ -20,3 +20,5 @@ Repositorio GitHub solicitado por Kevin el 18/11/2026: https://github.com/ElKavi
 Despliegue verificado el 18/11/2026: https://mariny.pages.dev/, proyecto mariny, despliegue bd4fbbd7-e925-4489-b096-b3b821da40e4 del commit ddd9005. Revisión pública a 390 y 1440 px, galería/modal y mensaje contextual sin envío. Los 19 archivos públicos coinciden con los locales tras normalizar saltos de línea de texto Windows/Git.
 
 Ajuste vigente del 18/11/2026: eliminado el botón «Pausar animación» y su lógica; las animaciones visibles se reproducen automáticamente en bucle. Se conserva la adaptación a movimiento reducido del dispositivo y la pausa técnica fuera de pantalla.
+
+Ubicación: sección #ubicacion con dos mapas incrustados de Google Maps para Ciudad de Panamá y Ciudad de Colón, descripciones, apertura externa y consulta contextual por ciudad. La ubicación se retiró de la portada. Los mapas son referencias de ciudad, sin marcar locales o direcciones no confirmadas.

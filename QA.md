@@ -26,3 +26,5 @@ Revisión final del CTA de Instagram: etiqueta sin relleno, contorno gris fino y
 Ubicación confirmada por Kevin el 18/11/2026: Estamos ubicados en Ciudad de Panamá y Ciudad de Colón. Visible con icono en portada y contacto del pie. Revisión a 320,390,1440 px sin desbordamiento.
 
 Sin botón de pausa (18/11/2026): revisado a 390 y 1440 px, cero controles motion-toggle, arte con animation-play-state running y repeat infinite, dos marcos dinámicos presentes, sin desbordamiento ni errores JavaScript.
+
+Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga visual completa en móvil y escritorio, enlaces externos y consultas WhatsApp con ciudad correspondiente. Retirado bloque de portada. Sin desbordamiento a320/390/768/1440 ni errores JS. Direcciones exactas pendientes; mapas muestran las ciudades.
