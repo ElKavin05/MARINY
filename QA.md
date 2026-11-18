@@ -20,3 +20,5 @@ Estrellas/transparencia: QA repetido en cinco anchuras sin desbordamientos ni im
 Publicación 18/11/2026: Cloudflare Pages mariny conectado a ElKavin05/MARINY, rama main, dist/. Estado success para bd4fbbd7-e925-4489-b096-b3b821da40e4. HTTPS público revisado a 390 y 1440 px, imágenes, filtros, modal y consulta WhatsApp correctos. Sin errores JavaScript ni desbordamiento. Comparados 19/19 archivos con hashes (texto normalizado LF), todos coinciden. Capturas públicas en tmp/public-*.png.
 
 CTA de Instagram en galería convertido en botón negro redondeado el 18/11/2026. Revisado a 320,390,1440 px, sin desbordamiento, altura 66 px y destino https://www.instagram.com/mariny_events/ en nueva pestaña.
+
+Revisión final del CTA de Instagram: etiqueta sin relleno, contorno gris fino y radio de 12 px, por corrección del usuario (18/11/2026). Conserva destino y apertura en nueva pestaña.
