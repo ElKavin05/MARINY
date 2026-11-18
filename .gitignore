@@ -1,0 +1,6 @@
+.project-memory/
+graphify-out/
+tmp/
+node_modules/
+debug.log
+assets/contact-sheet.jpg
