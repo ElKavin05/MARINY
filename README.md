@@ -8,9 +8,11 @@ Doce imágenes públicas seleccionadas, incluidas portadas de videos. Originales
 
 Rediseño del 18/11/2026: logo original suministrado por Kevin, visible en cabecera y pie sin reconstruir sus letras. Paleta blanca, negra y gris; botones redondeados, servicios y galería tipo Polaroid con descripciones ampliadas. Las fotos de trabajos conservan sus colores. Portada con interpretación artística en acuarela a color del arreglo de evento-03; se identifica como arte y los originales siguen disponibles en la galería. Lazos con texto curvo y estrellas, logos con movimiento suave, marcos dinámicos, destellos y líneas botánicas animadas mediante CSS, pausadas fuera de pantalla, con control global y respeto por movimiento reducido. Sin selector de tema por decisión final del usuario.
 
-Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. Sin publicación ni repositorio remoto. Fuentes en assets/sources.json y assets/MEDIA.md. Ver QA.md.
+Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. Repositorio remoto: https://github.com/ElKavin05/MARINY. Sin despliegue web remoto. Fuentes en assets/sources.json y assets/MEDIA.md. Ver QA.md.
 
 
 Refinamiento de contacto: botón «Más información» con icono de WhatsApp y botonera en el pie con WhatsApp, Instagram y Threads. Threads confirmado por Kevin: https://www.threads.com/@mariny_events. La franja del arte tiene borde redondeado y fondo gris translúcido.
 
 Ajuste vigente 18/11/2026: estrellas uniformes en amarillo #ffc928, incluidas las de texto SVG; pulso infinito suave en la estrella introductoria con pausa y movimiento reducido. La última cinta tiene base recta y relleno continuo hacia la sección negra. Logo activo en PNG transparente, conservando el original como fuente.
+
+Repositorio GitHub solicitado por Kevin el 18/11/2026: https://github.com/ElKavin05/MARINY, rama main. Carpeta publicable dist/. El repositorio incluye fuentes, recursos y originales. Cloudflare no desplegado todavía.
