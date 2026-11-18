@@ -7,3 +7,6 @@ Fecha: 2026-11-18.
 - Fotografías de portafolio: selección de Instagram documentada en `sources.json`. Conservan sus colores reales; la paleta monocromática se aplica a la interfaz y al arte de portada.
 
 El arte se creó con la herramienta de imágenes integrada. Movimiento implementado como composición HTML/SVG/CSS, sin biblioteca adicional ni video descargable.
+
+- `floral-watercolor-generated.png`: nueva interpretación a color de `originals/03.jpg`, con rosas amarillas y rosadas y espigas moradas. Solicitud de Kevin del 18/11/2026. Sustituye el grafito solo en portada; la versión anterior se conserva como recurso. Derivado `dist/assets/floral-watercolor.webp`, 260380 bytes.
+- Threads: enlace recibido directamente de Kevin el 18/11/2026: https://www.threads.com/@mariny_events?xmt=AQG0RxkNsq3cD6iypnVjvHlg-7yuKcerME_Zqgi21lKFFMw. Se usa la URL canónica sin el parámetro de seguimiento.
