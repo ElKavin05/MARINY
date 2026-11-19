@@ -18,3 +18,5 @@ El arte se creó con la herramienta de imágenes integrada. Movimiento implement
 - 1000327183.jpg → originals/eventos-corporativos.jpg → dist/assets/eventos-corporativos.webp. Salón con mesas blancas y centros florales altos, asignado por el usuario a Eventos corporativos.
 - 1000327123.jpg → originals/detalle-floral-mama.jpg → dist/assets/detalle-floral-mama.webp. Caja floral con dedicatoria a mamá. Categoría Detalles y momentos especiales.
 Originales conservados. Versiones WebP optimizadas sin transformación artística; recorte visual adaptable mediante CSS. Sustituidas las tarjetas y las entradas correspondientes de galería (ids6,11,3). No se reemplazaron los originales de la acuarela ni las fotografías de la sección Esencia.
+
+19/11/2026: foto1000327104.jpg adjuntada por Kevin para categoría prenupcial. Original assets/originals/cena-prenupcial.jpg, versión optimizada dist/assets/cena-prenupcial.webp. Sustituida tarjeta y entrada galería id5, categoría Despedidas y celebraciones prenupciales. Retirada asignación corporativa anterior por ser esta foto explícitamente prenupcial.

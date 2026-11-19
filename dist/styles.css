@@ -54,3 +54,5 @@ html{scroll-padding-top:166px}.site-header{background:#fffffff5}.header-inner{mi
 @media(max-width:350px){.hero h1{font-size:53px}.occasion-grid .service-heading h3{font-size:28px}.occasion-grid .service-photo img{height:320px}}
 
 .service-photo img[src$="cumpleanos-floral.webp"]{object-position:50% 32%}.service-photo img[src$="detalle-floral-mama.webp"]{object-position:50% 45%}.gallery-image img[src$="detalle-floral-mama.webp"]{object-position:50% 43%}
+
+.service-photo img[src$="cena-prenupcial.webp"]{object-position:50% 42%}

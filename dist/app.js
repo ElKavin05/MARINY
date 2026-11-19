@@ -60,12 +60,12 @@ const photographs = [
   {
     "id": 5,
     "categories": [
-      "Despedidas y celebraciones prenupciales",
-      "Eventos corporativos"
+      "Despedidas y celebraciones prenupciales"
     ],
-    "title": "La mesa también celebra",
-    "alt": "Servilleta con aro dorado y copa verde sobre una mesa preparada",
-    "description": "Texturas y pequeños detalles para imaginar una cena para la novia o un encuentro con tus invitados."
+    "title": "Una mesa para celebrar a la novia",
+    "alt": "Mesa larga para celebración prenupcial con flores blancas, velas, copas verdes y detalles dorados",
+    "description": "Flores blancas, velas, copas verdes y detalles dorados en una mesa preparada para compartir una celebración prenupcial.",
+    "src": "assets/cena-prenupcial.webp"
   },
   {
     "id": 3,
