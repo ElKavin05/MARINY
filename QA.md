@@ -28,3 +28,5 @@ Ubicación confirmada por Kevin el 18/11/2026: Estamos ubicados en Ciudad de Pan
 Sin botón de pausa (18/11/2026): revisado a 390 y 1440 px, cero controles motion-toggle, arte con animation-play-state running y repeat infinite, dos marcos dinámicos presentes, sin desbordamiento ni errores JavaScript.
 
 Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga visual completa en móvil y escritorio, enlaces externos y consultas WhatsApp con ciudad correspondiente. Retirado bloque de portada. Sin desbordamiento a320/390/768/1440 ni errores JS. Direcciones exactas pendientes; mapas muestran las ciudades.
+
+19/11/2026, cinco categorías: QA local a 320/390/768/1440 px, sin desbordamiento, sin imágenes rotas y sin errores JS. Cinco servicios y categorías del formulario coincidentes. Los cinco CTA preparan la ocasión correcta al enviar el formulario; se comprobó alternando categorías, sin mensajes externos. Filtros: Todos9, Bodas3, Corporativos3, Despedidas2, Cumpleaños2, Detalles4, Con globos2. Modal/flechas/Escape en cada filtro. Capturas de portada y catálogo móvil/escritorio revisadas. Ubicación con dos mapas conservada.

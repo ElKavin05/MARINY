@@ -29,17 +29,95 @@ form.addEventListener('submit', event => {
 });
 
 const photographs = [
-  {id:8,category:'Bodas',title:'Flores para dar el sí',alt:'Panel iluminado con arreglos florales para una boda'},
-  {id:12,category:'Celebraciones',title:'Un cumpleaños lleno de color',alt:'Montaje de cumpleaños con globos de colores y flores'},
-  {id:5,category:'Detalles',title:'La mesa también celebra',alt:'Servilleta con aro dorado, plato y copa verde sobre una mesa preparada'},
-  {id:2,category:'Celebraciones',title:'Una ocasión especial',alt:'Decoración con globos azules, blancos y dorados y panel con flores'},
-  {id:3,category:'Detalles',title:'Flores con personalidad',alt:'Arreglo de flores amarillas, rosadas, moradas y blancas'},
-  {id:6,category:'Bodas',title:'Encuentros alrededor de la mesa',alt:'Mesa con velas, cristalería y flores blancas'},
-  {id:7,category:'Detalles',title:'El encanto de lo sencillo',alt:'Rosas rojas en un florero de cristal sobre una mesa de celebración'},
-  {id:1,category:'Bodas',title:'El comienzo de una historia',alt:'Ceremonia de boda con telas blancas y flores a ambos lados'},
-  {id:11,category:'Celebraciones',title:'Una mesa para compartir',alt:'Mesa de celebración con flores blancas y amarillas y copas'},
+  {
+    "id": 8,
+    "categories": [
+      "Bodas y compromisos"
+    ],
+    "title": "Flores para dar el sí",
+    "alt": "Panel iluminado con arreglos florales para una boda",
+    "description": "Una entrada con flores y luz para acompañar el comienzo de su celebración."
+  },
+  {
+    "id": 1,
+    "categories": [
+      "Bodas y compromisos"
+    ],
+    "title": "El comienzo de una historia",
+    "alt": "Ceremonia de boda con telas blancas y flores a ambos lados",
+    "description": "Las flores y las telas enmarcan un momento para recordar juntos."
+  },
+  {
+    "id": 6,
+    "categories": [
+      "Bodas y compromisos",
+      "Eventos corporativos"
+    ],
+    "title": "Una mesa que invita a quedarse",
+    "alt": "Mesa con velas, cristalería y flores blancas",
+    "description": "Flores blancas, velas y cristalería: una inspiración para recibir a los invitados de tu celebración o encuentro de empresa."
+  },
+  {
+    "id": 5,
+    "categories": [
+      "Despedidas y celebraciones prenupciales",
+      "Eventos corporativos"
+    ],
+    "title": "La mesa también celebra",
+    "alt": "Servilleta con aro dorado y copa verde sobre una mesa preparada",
+    "description": "Texturas y pequeños detalles para imaginar una cena para la novia o un encuentro con tus invitados."
+  },
+  {
+    "id": 3,
+    "categories": [
+      "Detalles y momentos especiales",
+      "Eventos corporativos"
+    ],
+    "title": "Flores con personalidad",
+    "alt": "Arreglo con rosas amarillas y rosadas y flores blancas y moradas",
+    "description": "Una composición floral con carácter, como inspiración para un detalle personal o para acompañar un evento."
+  },
+  {
+    "id": 7,
+    "categories": [
+      "Despedidas y celebraciones prenupciales",
+      "Detalles y momentos especiales"
+    ],
+    "title": "El encanto de lo sencillo",
+    "alt": "Rosas rojas en un florero de cristal sobre una mesa",
+    "description": "Un toque floral para una mesa especial. Una idea para una cena, una despedida o una sorpresa preparada con cariño."
+  },
+  {
+    "id": 11,
+    "categories": [
+      "Cumpleaños",
+      "Detalles y momentos especiales"
+    ],
+    "title": "Una mesa para compartir",
+    "alt": "Mesa con flores blancas y amarillas y copas",
+    "description": "Flores y una mesa preparada con intención: inspiración para un cumpleaños o un momento en familia."
+  },
+  {
+    "id": 12,
+    "categories": [
+      "Cumpleaños"
+    ],
+    "balloons": true,
+    "title": "Un cumpleaños lleno de color",
+    "alt": "Montaje de cumpleaños con globos de colores y flores",
+    "description": "Los globos también pueden acompañar una ocasión: una propuesta alegre para quien disfruta celebrar con color."
+  },
+  {
+    "id": 2,
+    "categories": [
+      "Detalles y momentos especiales"
+    ],
+    "balloons": true,
+    "title": "Una ocasión especial",
+    "alt": "Decoración con globos azules, blancos y dorados y panel con flores",
+    "description": "Flores y globos reunidos en un montaje para una fecha importante en familia."
+  }
 ];
-const photographDescriptions = ["Una entrada que invita a vivir el gran día: flores y luz para acompañar ese primer momento de la celebración.", "Una idea llena de alegría, con globos y detalles que convierten un cumpleaños en un mundo propio.", "El encanto de sentarse a compartir: texturas, cristalería y pequeños detalles que hacen sentir bienvenidos a tus invitados.", "Un montaje para celebrar una fecha importante en familia, con una combinación de globos y flores que enmarca el momento.", "Flores que se encuentran en una composición con carácter. Una inspiración para llevar tu estilo a los detalles de tu evento.", "Una mesa que invita a quedarse: flores, velas y cristalería pensadas para acompañar la conversación.", "Un toque floral puede cambiar por completo una mesa. Los detalles sencillos también cuentan una historia.", "El entorno acompaña a quienes celebran. Una ceremonia donde las flores y las telas enmarcan un nuevo comienzo.", "Una mesa preparada para recibir, compartir y disfrutar. Cuéntanos cómo imaginas la de tu próxima celebración."];
 const grid = document.querySelector('#gallery-grid');
 const dialog = document.querySelector('#photo-dialog');
 const dialogImage = document.querySelector('#dialog-image');
@@ -61,13 +139,13 @@ function movePhoto(direction) {
   showPhoto();
 }
 function renderGallery(category = 'Todos') {
-  activePhotos = category === 'Todos' ? photographs : photographs.filter(photo => photo.category === category);
+  activePhotos = category === 'Todos' ? photographs : photographs.filter(photo => category === 'Con globos' ? photo.balloons : photo.categories.includes(category));
   grid.replaceChildren(...activePhotos.map((photo,index) => {
     const button = document.createElement('button');
     button.className = 'gallery-card';
     button.type = 'button';
     button.setAttribute('aria-label', `Ampliar ${photo.title.toLowerCase()}`);
-    button.innerHTML = `<div class="gallery-image"><img src="${photoSrc(photo)}" width="540" height="720" loading="lazy" alt="${photo.alt}"></div><div class="gallery-caption"><span>${photo.title}</span><span aria-hidden="true">↗</span></div><p class="gallery-description">${photographDescriptions[photographs.indexOf(photo)]}</p><span class="photo-action">Ver fotografía <span aria-hidden="true">+</span></span>`;
+    button.innerHTML = `<div class="gallery-image"><img src="${photoSrc(photo)}" width="540" height="720" loading="lazy" alt="${photo.alt}"></div><div class="gallery-caption"><span>${photo.title}</span><span aria-hidden="true">↗</span></div><p class="gallery-description">${photo.description}</p><span class="photo-action">Ver fotografía <span aria-hidden="true">+</span></span>`;
     button.addEventListener('click', () => {
       photoIndex = index;
       galleryTrigger = button;
