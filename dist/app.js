@@ -50,12 +50,12 @@ const photographs = [
   {
     "id": 6,
     "categories": [
-      "Bodas y compromisos",
       "Eventos corporativos"
     ],
-    "title": "Una mesa que invita a quedarse",
-    "alt": "Mesa con velas, cristalería y flores blancas",
-    "description": "Flores blancas, velas y cristalería: una inspiración para recibir a los invitados de tu celebración o encuentro de empresa."
+    "title": "Flores para recibir a tus invitados",
+    "alt": "Salón con mesas vestidas de blanco, centros florales altos y detalles dorados",
+    "description": "Un salón preparado con flores blancas, mesas y detalles dorados para acompañar un encuentro especial.",
+    "src": "assets/eventos-corporativos.webp"
   },
   {
     "id": 5,
@@ -70,12 +70,12 @@ const photographs = [
   {
     "id": 3,
     "categories": [
-      "Detalles y momentos especiales",
-      "Eventos corporativos"
+      "Detalles y momentos especiales"
     ],
-    "title": "Flores con personalidad",
-    "alt": "Arreglo con rosas amarillas y rosadas y flores blancas y moradas",
-    "description": "Una composición floral con carácter, como inspiración para un detalle personal o para acompañar un evento."
+    "title": "Un detalle para mamá",
+    "alt": "Caja floral Mariny con tulipanes rosados, rosas amarillas y espejo con dedicatoria para mamá",
+    "description": "Un detalle floral para mamá con tulipanes, rosas, lazos y una dedicatoria que dice lo que sientes.",
+    "src": "assets/detalle-floral-mama.webp"
   },
   {
     "id": 7,
@@ -90,12 +90,13 @@ const photographs = [
   {
     "id": 11,
     "categories": [
-      "Cumpleaños",
-      "Detalles y momentos especiales"
+      "Cumpleaños"
     ],
-    "title": "Una mesa para compartir",
-    "alt": "Mesa con flores blancas y amarillas y copas",
-    "description": "Flores y una mesa preparada con intención: inspiración para un cumpleaños o un momento en familia."
+    "title": "Un cumpleaños entre flores",
+    "alt": "Mesa de cumpleaños con flores rosadas, velas y letras Happy Birthday al fondo",
+    "description": "Flores rosadas, velas y una mesa preparada con cariño para celebrar un cumpleaños. Las letras con globos acompañan el montaje floral.",
+    "src": "assets/cumpleanos-floral.webp",
+    "balloons": true
   },
   {
     "id": 12,
@@ -126,7 +127,7 @@ const position = document.querySelector('#photo-position');
 let activePhotos = photographs;
 let photoIndex = 0;
 let galleryTrigger;
-const photoSrc = photo => `assets/evento-${String(photo.id).padStart(2,'0')}.webp`;
+const photoSrc = photo => photo.src || `assets/evento-${String(photo.id).padStart(2,'0')}.webp`;
 function showPhoto() {
   const photo = activePhotos[photoIndex];
   dialogImage.src = photoSrc(photo);
