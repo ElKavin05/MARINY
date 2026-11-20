@@ -1,26 +1,24 @@
-# Mariny Events
+# Mariny · Catálogo Día de las Madres
 
-Muestra visual local creada el 18/11/2026. Carpeta publicable `dist/`. Abrir dist/index.html o ejecutar `python -m http.server 5203 --directory dist` desde esta carpeta y visitar http://127.0.0.1:5203/.
+Catálogo temporal en la rama catalogo-dia-madres del repositorio ElKavin05/MARINY. La web principal pertenece a main y al proyecto Cloudflare mariny. Este catálogo se publica como proyecto independiente mariny-catalogo-madres, salida dist/, sin compilación.
 
-WhatsApp confirmado por Kevin: +507 6460-9658. Perfil autorizado como fuente: https://www.instagram.com/mariny_events/. Nombre público Mariny Escalante, bodas, cumpleaños y eventos especiales. El perfil indica Panamá y Colón. No se publican dirección exacta, tarifas ni disponibilidad no confirmadas.
+## Edición
+Ejecutar python -m http.server 5212 --bind 127.0.0.1 --directory dist y abrir http://127.0.0.1:5212/.
+Los productos se editan en dist/products.json. price es null mientras el precio no esté confirmado. Para establecerlo, usar un número con el precio unitario en dólares, por ejemplo 35. Las tarjetas y consultas mostrarán el precio desde ese archivo. Mantener los códigos existentes al editar descripciones o fotos. Tras cambiar productos.json, subir a catalogo-dia-madres y verificar el nuevo despliegue.
 
-Doce imágenes públicas seleccionadas, incluidas portadas de videos. Originales en assets/originals y versiones WebP en dist/assets. Algunas portadas contienen desenfoque original. Se conservaron los montajes y colores. La muestra usa nueve imágenes en galería filtrable, selección por servicio, ampliación accesible y formulario que prepara WhatsApp, sin enviar mensajes ni almacenar datos. Sin backend.
+Cada consulta es individual, incluye código, nombre, descripción, cantidad, precio y enlace de referencia al arreglo. WhatsApp50764609658 confirmado por Kevin. No se envían mensajes automáticamente ni se guardan datos personales. Las cantidades no representan existencias.
 
-Rediseño del 18/11/2026: logo original suministrado por Kevin, visible en cabecera y pie sin reconstruir sus letras. Paleta blanca, negra y gris; botones redondeados, servicios y galería tipo Polaroid con descripciones ampliadas. Las fotos de trabajos conservan sus colores. Portada con interpretación artística en acuarela a color del arreglo de evento-03; se identifica como arte y los originales siguen disponibles en la galería. Lazos con texto curvo y estrellas, logos con movimiento suave, marcos dinámicos, destellos y líneas botánicas animadas mediante CSS, pausadas fuera de pantalla, sin botón de pausa y con respeto por movimiento reducido. Sin selector de tema por decisión final del usuario.
+## Material recibido y revisión
+Archivo ZIP suministrado por Kevin el 19/11/2026, con 84 fotos distintas y 2 videos. Originales conservados en assets/catalogue-originals y nombres originales en sources.json. Las fotos 14/15, 41/42 y 49/50se agruparon como tomas alternativas. Resultado81 productos que contabilizan84 imágenes. Los códigos conservan el índice de la primera foto.
 
-Tipografías Baskervville y DM Sans mediante Google Fonts. Muestra con noindex. Repositorio remoto: https://github.com/ElKavin05/MARINY. Publicada en https://mariny.pages.dev/. Fuentes en assets/sources.json y assets/MEDIA.md. Ver QA.md.
+Descripciones editoriales basadas en lo visible. Precio y disponibilidad por confirmar en todos los productos, incluso en referencias promocionales antiguas. Fotografías 9 y 68conservan texto de origen. No se deducen medidas ni cantidades de tallos.
+WebP720 px para tarjetas y hasta1400 px para ampliación. Todo se conserva completo con object-fit:contain. Logo transparente original de Mariny ajustado al área útil. Baskervville y DM Sans autoalojadas con licencia OFL.
 
+Videos H.264/AAC de 2,733 y 14,63 segundos, aproximadamente0,5 y 2,7 MB. FFmpeg cut.py aplicado a duración completa mediante copia sin pérdida y faststart. Se conservan proporción, rotación y audio. Pósteres sin marca de tiempo. Los videos usan controles, playsinline y preload=none.
 
-Refinamiento de contacto: botón «Más información» con icono de WhatsApp y botonera en el pie con WhatsApp, Instagram y Threads. Threads confirmado por Kevin: https://www.threads.com/@mariny_events. La franja del arte tiene borde redondeado y fondo gris translúcido.
+## Verificación y publicación
+tmp/catalogue-qa.cjs revisa320/390/768/1440 px,81 tarjetas, imágenes, filtros, visor con teclado, cantidades y81 mensajes individuales sin enviarlos. Capturas en tmp/catalogue-hero-*.png, catalogue-grid-*.png y catalogue-videos-*.png.
+La publicación requiere push a catalogo-dia-madres. Confirmar commit y estado success en Cloudflare. El sitio principal está vinculado a main con vistas previas de otras ramas desactivadas.
 
-Ajuste vigente 18/11/2026: estrellas uniformes en amarillo #ffc928, incluidas las de texto SVG; pulso infinito suave en la estrella introductoria con pausa y movimiento reducido. La última cinta tiene base recta y relleno continuo hacia la sección negra. Logo activo en PNG transparente, conservando el original como fuente.
-
-Repositorio GitHub solicitado por Kevin el 18/11/2026: https://github.com/ElKavin05/MARINY, rama main. Carpeta publicable dist/. El repositorio incluye fuentes, recursos y originales. Cloudflare Pages conectado a GitHub: main se publica automáticamente, sin comando de compilación y con salida dist/.
-
-Despliegue verificado el 18/11/2026: https://mariny.pages.dev/, proyecto mariny, despliegue bd4fbbd7-e925-4489-b096-b3b821da40e4 del commit ddd9005. Revisión pública a 390 y 1440 px, galería/modal y mensaje contextual sin envío. Los 19 archivos públicos coinciden con los locales tras normalizar saltos de línea de texto Windows/Git.
-
-Ajuste vigente del 18/11/2026: eliminado el botón «Pausar animación» y su lógica; las animaciones visibles se reproducen automáticamente en bucle. Se conserva la adaptación a movimiento reducido del dispositivo y la pausa técnica fuera de pantalla.
-
-Ubicación: sección #ubicacion con dos mapas incrustados de Google Maps para Ciudad de Panamá y Ciudad de Colón, descripciones, apertura externa y consulta contextual por ciudad. La ubicación se retiró de la portada. Los mapas son referencias de ciudad, sin marcar locales o direcciones no confirmadas.
-
-Actualización de oferta aprobada por Kevin (19/11/2026): enfoque principal en eventos con flores y detalles; globos complementarios. Cinco categorías compartidas por servicios, filtros y formulario: Bodas y compromisos; Eventos corporativos; Despedidas y celebraciones prenupciales; Cumpleaños; Detalles y momentos especiales. Portada «Flores y detalles para celebrar tu historia» y CTA «Cuéntanos tu ocasión». Cinco tarjetas con imágenes florales/de mesa y CTA contextual. Galería de nueve fotografías, primero bodas/flores/mesas y al final dos montajes con globos, accesibles por filtro adicional. Las mesas y arreglos se etiquetan como inspiración para ocasiones compatibles, sin afirmar procedencia corporativa/prenupcial no confirmada. Bienvenidas de bebé descritas de forma neutral, sin usar el término transcrito ambiguo. Ubicación y contacto conservados.
+## Retirada de campaña
+Al terminar la campaña, eliminar el proyecto Cloudflare mariny-catalogo-madres o sustituirlo por un aviso de cierre, según indique Kevin. Conservar la rama y los originales como archivo. Esa acción requiere un encargo de retirada.

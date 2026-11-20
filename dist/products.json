@@ -1,0 +1,1235 @@
+[
+  {
+    "id": "MAD-001",
+    "name": "Jardín en canasta",
+    "description": "Canasta con flores rosadas, blancas y amarillas y follaje.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-01.webp",
+        "full": "catalogue/photo-01-full.webp",
+        "sourceIndex": 1,
+        "alt": "Jardín en canasta"
+      }
+    ]
+  },
+  {
+    "id": "MAD-002",
+    "name": "Rosas con globos",
+    "description": "Rosas rojas en base blanca, lazo negro y globos decorativos.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-02.webp",
+        "full": "catalogue/photo-02-full.webp",
+        "sourceIndex": 2,
+        "alt": "Rosas con globos"
+      }
+    ]
+  },
+  {
+    "id": "MAD-003",
+    "name": "Rosas para decirlo todo",
+    "description": "Rosas rojas con envoltura blanca y detalle de letras decorativas.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-03.webp",
+        "full": "catalogue/photo-03-full.webp",
+        "sourceIndex": 3,
+        "alt": "Rosas para decirlo todo"
+      }
+    ]
+  },
+  {
+    "id": "MAD-004",
+    "name": "Canasta carmesí",
+    "description": "Canasta de rosas rojas con flores alargadas y cinta roja.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-04.webp",
+        "full": "catalogue/photo-04-full.webp",
+        "sourceIndex": 4,
+        "alt": "Canasta carmesí"
+      }
+    ]
+  },
+  {
+    "id": "MAD-005",
+    "name": "Gerberas para mamá",
+    "description": "Referencia de arreglos con gerberas rosadas en bases con lazos.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-05.webp",
+        "full": "catalogue/photo-05-full.webp",
+        "sourceIndex": 5,
+        "alt": "Gerberas para mamá"
+      }
+    ]
+  },
+  {
+    "id": "MAD-006",
+    "name": "Flores para tu mesa",
+    "description": "Composición de flores de varios colores en una base decorativa.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-06.webp",
+        "full": "catalogue/photo-06-full.webp",
+        "sourceIndex": 6,
+        "alt": "Flores para tu mesa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-007",
+    "name": "Rosas en cristal",
+    "description": "Rosas rojas en florero transparente con follaje.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-07.webp",
+        "full": "catalogue/photo-07-full.webp",
+        "sourceIndex": 7,
+        "alt": "Rosas en cristal"
+      }
+    ]
+  },
+  {
+    "id": "MAD-008",
+    "name": "Contraste de flores",
+    "description": "Ramo de flores amarillas y rojas con envoltura oscura.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-08.webp",
+        "full": "catalogue/photo-08-full.webp",
+        "sourceIndex": 8,
+        "alt": "Contraste de flores"
+      }
+    ]
+  },
+  {
+    "id": "MAD-009",
+    "name": "Lirios amarillos",
+    "description": "Referencia promocional de un ramo amarillo. Precio y condiciones actuales por confirmar.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-09.webp",
+        "full": "catalogue/photo-09-full.webp",
+        "sourceIndex": 9,
+        "alt": "Lirios amarillos"
+      }
+    ]
+  },
+  {
+    "id": "MAD-010",
+    "name": "Alegría en rosa",
+    "description": "Flores amarillas y rosadas con envoltura rosa y cinta.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-10.webp",
+        "full": "catalogue/photo-10-full.webp",
+        "sourceIndex": 10,
+        "alt": "Alegría en rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-011",
+    "name": "Un ramo con sorpresa",
+    "description": "Ramo de flores rosadas y amarillas con globo decorativo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-11.webp",
+        "full": "catalogue/photo-11-full.webp",
+        "sourceIndex": 11,
+        "alt": "Un ramo con sorpresa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-012",
+    "name": "Luz amarilla",
+    "description": "Flores amarillas y blancas con envoltura translúcida.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-12.webp",
+        "full": "catalogue/photo-12-full.webp",
+        "sourceIndex": 12,
+        "alt": "Luz amarilla"
+      }
+    ]
+  },
+  {
+    "id": "MAD-013",
+    "name": "Rosas con delicadeza",
+    "description": "Rosas rojas con flores blancas pequeñas y envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-13.webp",
+        "full": "catalogue/photo-13-full.webp",
+        "sourceIndex": 13,
+        "alt": "Rosas con delicadeza"
+      }
+    ]
+  },
+  {
+    "id": "MAD-014",
+    "name": "Abrazo de primavera",
+    "description": "Ramo de flores rosadas y tonos suaves con envoltura rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-14.webp",
+        "full": "catalogue/photo-14-full.webp",
+        "sourceIndex": 14,
+        "alt": "Abrazo de primavera · vista 1"
+      },
+      {
+        "src": "catalogue/photo-15.webp",
+        "full": "catalogue/photo-15-full.webp",
+        "sourceIndex": 15,
+        "alt": "Abrazo de primavera · vista 2"
+      }
+    ]
+  },
+  {
+    "id": "MAD-016",
+    "name": "Canasta suave",
+    "description": "Canasta con flores en tonos suaves y follaje.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-16.webp",
+        "full": "catalogue/photo-16-full.webp",
+        "sourceIndex": 16,
+        "alt": "Canasta suave"
+      }
+    ]
+  },
+  {
+    "id": "MAD-017",
+    "name": "Todo para mamá",
+    "description": "Arreglo multicolor en caja blanca con lazo rosa y dedicatoria para mamá.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-17.webp",
+        "full": "catalogue/photo-17-full.webp",
+        "sourceIndex": 17,
+        "alt": "Todo para mamá"
+      }
+    ]
+  },
+  {
+    "id": "MAD-018",
+    "name": "Ramo en lavanda",
+    "description": "Ramo de flores en tonos suaves con envoltura lavanda y rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-18.webp",
+        "full": "catalogue/photo-18-full.webp",
+        "sourceIndex": 18,
+        "alt": "Ramo en lavanda"
+      }
+    ]
+  },
+  {
+    "id": "MAD-019",
+    "name": "Tonos de cariño",
+    "description": "Rosas rosadas con detalles amarillos y envoltura malva.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-19.webp",
+        "full": "catalogue/photo-19-full.webp",
+        "sourceIndex": 19,
+        "alt": "Tonos de cariño"
+      }
+    ]
+  },
+  {
+    "id": "MAD-020",
+    "name": "Pequeño jardín",
+    "description": "Flores rosadas y blancas con follaje y envoltura rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-20.webp",
+        "full": "catalogue/photo-20-full.webp",
+        "sourceIndex": 20,
+        "alt": "Pequeño jardín"
+      }
+    ]
+  },
+  {
+    "id": "MAD-021",
+    "name": "Rosa y blanco",
+    "description": "Ramo rosado con flores blancas pequeñas y lazo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-21.webp",
+        "full": "catalogue/photo-21-full.webp",
+        "sourceIndex": 21,
+        "alt": "Rosa y blanco"
+      }
+    ]
+  },
+  {
+    "id": "MAD-022",
+    "name": "Flores para compartir",
+    "description": "Referencia de arreglos surtidos en tonos blancos, rosados y morados.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-22.webp",
+        "full": "catalogue/photo-22-full.webp",
+        "sourceIndex": 22,
+        "alt": "Flores para compartir"
+      }
+    ]
+  },
+  {
+    "id": "MAD-023",
+    "name": "Rosas entre nubes",
+    "description": "Rosas rojas y blancas con flores blancas pequeñas y envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-23.webp",
+        "full": "catalogue/photo-23-full.webp",
+        "sourceIndex": 23,
+        "alt": "Rosas entre nubes"
+      }
+    ]
+  },
+  {
+    "id": "MAD-024",
+    "name": "Selección de ramos",
+    "description": "Referencia de varios ramos florales con envolturas claras y rosadas.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-24.webp",
+        "full": "catalogue/photo-24-full.webp",
+        "sourceIndex": 24,
+        "alt": "Selección de ramos"
+      }
+    ]
+  },
+  {
+    "id": "MAD-025",
+    "name": "Jardín en caja blanca",
+    "description": "Flores rosadas y blancas con follaje en una base blanca.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-25.webp",
+        "full": "catalogue/photo-25-full.webp",
+        "sourceIndex": 25,
+        "alt": "Jardín en caja blanca"
+      }
+    ]
+  },
+  {
+    "id": "MAD-026",
+    "name": "Rosas de sol",
+    "description": "Rosas amarillas con flores blancas y envoltura blanca.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-26.webp",
+        "full": "catalogue/photo-26-full.webp",
+        "sourceIndex": 26,
+        "alt": "Rosas de sol"
+      }
+    ]
+  },
+  {
+    "id": "MAD-027",
+    "name": "Detalle durazno",
+    "description": "Flores en tonos suaves con envoltura clara y cinta rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-27.webp",
+        "full": "catalogue/photo-27-full.webp",
+        "sourceIndex": 27,
+        "alt": "Detalle durazno"
+      }
+    ]
+  },
+  {
+    "id": "MAD-028",
+    "name": "Dulce celebración",
+    "description": "Arreglo floral rosado y blanco junto a detalles decorativos de celebración.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-28.webp",
+        "full": "catalogue/photo-28-full.webp",
+        "sourceIndex": 28,
+        "alt": "Dulce celebración"
+      }
+    ]
+  },
+  {
+    "id": "MAD-029",
+    "name": "Caja de color",
+    "description": "Arreglo de flores rojas, rosadas y moradas en base rosa.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-29.webp",
+        "full": "catalogue/photo-29-full.webp",
+        "sourceIndex": 29,
+        "alt": "Caja de color"
+      }
+    ]
+  },
+  {
+    "id": "MAD-030",
+    "name": "Blanco sereno",
+    "description": "Flores blancas con follaje y envoltura en tonos neutros.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-30.webp",
+        "full": "catalogue/photo-30-full.webp",
+        "sourceIndex": 30,
+        "alt": "Blanco sereno"
+      }
+    ]
+  },
+  {
+    "id": "MAD-031",
+    "name": "Rosas en negro",
+    "description": "Rosas rojas con envoltura negra y detalles dorados.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-31.webp",
+        "full": "catalogue/photo-31-full.webp",
+        "sourceIndex": 31,
+        "alt": "Rosas en negro"
+      }
+    ]
+  },
+  {
+    "id": "MAD-032",
+    "name": "Armonía floral",
+    "description": "Rosas rosadas y flores blancas y moradas en una base decorativa.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-32.webp",
+        "full": "catalogue/photo-32-full.webp",
+        "sourceIndex": 32,
+        "alt": "Armonía floral"
+      }
+    ]
+  },
+  {
+    "id": "MAD-033",
+    "name": "Canasta de jardín",
+    "description": "Flores rosadas, blancas y moradas en canasta con follaje.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-33.webp",
+        "full": "catalogue/photo-33-full.webp",
+        "sourceIndex": 33,
+        "alt": "Canasta de jardín"
+      }
+    ]
+  },
+  {
+    "id": "MAD-034",
+    "name": "Un ramo lleno de color",
+    "description": "Flores de varios colores con envoltura rosa y lavanda.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-34.webp",
+        "full": "catalogue/photo-34-full.webp",
+        "sourceIndex": 34,
+        "alt": "Un ramo lleno de color"
+      }
+    ]
+  },
+  {
+    "id": "MAD-035",
+    "name": "Caja de rosas pastel",
+    "description": "Rosas en tonos rosa y lavanda con follaje en caja blanca.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-35.webp",
+        "full": "catalogue/photo-35-full.webp",
+        "sourceIndex": 35,
+        "alt": "Caja de rosas pastel"
+      }
+    ]
+  },
+  {
+    "id": "MAD-036",
+    "name": "Rosas y detalle especial",
+    "description": "Rosas rojas en base negra con un detalle decorativo.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-36.webp",
+        "full": "catalogue/photo-36-full.webp",
+        "sourceIndex": 36,
+        "alt": "Rosas y detalle especial"
+      }
+    ]
+  },
+  {
+    "id": "MAD-037",
+    "name": "Sorpresa carmesí",
+    "description": "Rosas rojas con envoltura negra y globo decorativo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-37.webp",
+        "full": "catalogue/photo-37-full.webp",
+        "sourceIndex": 37,
+        "alt": "Sorpresa carmesí"
+      }
+    ]
+  },
+  {
+    "id": "MAD-038",
+    "name": "Rosas durazno",
+    "description": "Rosas en tonos durazno y rosa con envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-38.webp",
+        "full": "catalogue/photo-38-full.webp",
+        "sourceIndex": 38,
+        "alt": "Rosas durazno"
+      }
+    ]
+  },
+  {
+    "id": "MAD-039",
+    "name": "Caja rosa",
+    "description": "Rosas rosadas y flores blancas pequeñas en caja redonda rosa.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-39.webp",
+        "full": "catalogue/photo-39-full.webp",
+        "sourceIndex": 39,
+        "alt": "Caja rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-040",
+    "name": "Ramo de rosas suaves",
+    "description": "Rosas de tono rosa claro con envoltura rosa y lazo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-40.webp",
+        "full": "catalogue/photo-40-full.webp",
+        "sourceIndex": 40,
+        "alt": "Ramo de rosas suaves"
+      }
+    ]
+  },
+  {
+    "id": "MAD-041",
+    "name": "Blanco y lavanda",
+    "description": "Flores blancas y rosadas con envoltura clara y lazo lavanda.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-41.webp",
+        "full": "catalogue/photo-41-full.webp",
+        "sourceIndex": 41,
+        "alt": "Blanco y lavanda · vista 1"
+      },
+      {
+        "src": "catalogue/photo-42.webp",
+        "full": "catalogue/photo-42-full.webp",
+        "sourceIndex": 42,
+        "alt": "Blanco y lavanda · vista 2"
+      }
+    ]
+  },
+  {
+    "id": "MAD-043",
+    "name": "Cariño en tonos cálidos",
+    "description": "Rosas en tonos cálidos con flores pequeñas y envoltura durazno.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-43.webp",
+        "full": "catalogue/photo-43-full.webp",
+        "sourceIndex": 43,
+        "alt": "Cariño en tonos cálidos"
+      }
+    ]
+  },
+  {
+    "id": "MAD-044",
+    "name": "Lirios y rosas",
+    "description": "Flores rosadas con follaje y envoltura rosa y lavanda.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-44.webp",
+        "full": "catalogue/photo-44-full.webp",
+        "sourceIndex": 44,
+        "alt": "Lirios y rosas"
+      }
+    ]
+  },
+  {
+    "id": "MAD-045",
+    "name": "Rosas con lazo rojo",
+    "description": "Rosas rojas en un florero transparente con lazo rojo.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-45.webp",
+        "full": "catalogue/photo-45-full.webp",
+        "sourceIndex": 45,
+        "alt": "Rosas con lazo rojo"
+      }
+    ]
+  },
+  {
+    "id": "MAD-046",
+    "name": "Canasta de ensueño",
+    "description": "Canasta de flores rosadas, blancas y lavanda con asa y cinta.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-46.webp",
+        "full": "catalogue/photo-46-full.webp",
+        "sourceIndex": 46,
+        "alt": "Canasta de ensueño"
+      }
+    ]
+  },
+  {
+    "id": "MAD-047",
+    "name": "Rosas en base rosa",
+    "description": "Rosas en tonos rosa y lavanda con follaje en base redonda.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-47.webp",
+        "full": "catalogue/photo-47-full.webp",
+        "sourceIndex": 47,
+        "alt": "Rosas en base rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-048",
+    "name": "Corazón en caja",
+    "description": "Rosas rojas dispuestas en forma de corazón en una caja negra.",
+    "category": "Corazones",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-48.webp",
+        "full": "catalogue/photo-48-full.webp",
+        "sourceIndex": 48,
+        "alt": "Corazón en caja"
+      }
+    ]
+  },
+  {
+    "id": "MAD-049",
+    "name": "Corazón de rosas rojas",
+    "description": "Arreglo de rosas rojas en forma de corazón con tallos visibles.",
+    "category": "Corazones",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-49.webp",
+        "full": "catalogue/photo-49-full.webp",
+        "sourceIndex": 49,
+        "alt": "Corazón de rosas rojas · vista 1"
+      },
+      {
+        "src": "catalogue/photo-50.webp",
+        "full": "catalogue/photo-50-full.webp",
+        "sourceIndex": 50,
+        "alt": "Corazón de rosas rojas · vista 2"
+      }
+    ]
+  },
+  {
+    "id": "MAD-051",
+    "name": "Rojo y rosa en florero",
+    "description": "Rosas rojas y rosadas con flores blancas y cinta roja.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-51.webp",
+        "full": "catalogue/photo-51-full.webp",
+        "sourceIndex": 51,
+        "alt": "Rojo y rosa en florero"
+      }
+    ]
+  },
+  {
+    "id": "MAD-052",
+    "name": "Una rosa especial",
+    "description": "Detalle de rosa roja con flores blancas pequeñas y envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-52.webp",
+        "full": "catalogue/photo-52-full.webp",
+        "sourceIndex": 52,
+        "alt": "Una rosa especial"
+      }
+    ]
+  },
+  {
+    "id": "MAD-053",
+    "name": "Orquídea en maceta",
+    "description": "Planta de orquídea con flores en tonos blanco y rosa en maceta.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-53.webp",
+        "full": "catalogue/photo-53-full.webp",
+        "sourceIndex": 53,
+        "alt": "Orquídea en maceta"
+      }
+    ]
+  },
+  {
+    "id": "MAD-054",
+    "name": "Tulipanes rosados",
+    "description": "Ramo de tulipanes rosados con envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-54.webp",
+        "full": "catalogue/photo-54-full.webp",
+        "sourceIndex": 54,
+        "alt": "Tulipanes rosados"
+      }
+    ]
+  },
+  {
+    "id": "MAD-055",
+    "name": "Girasoles para alegrar",
+    "description": "Girasoles con flores pequeñas y envoltura de apariencia natural.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-55.webp",
+        "full": "catalogue/photo-55-full.webp",
+        "sourceIndex": 55,
+        "alt": "Girasoles para alegrar"
+      }
+    ]
+  },
+  {
+    "id": "MAD-056",
+    "name": "Flores en blanco",
+    "description": "Ramo con flores blancas, rosadas y moradas y envoltura blanca.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-56.webp",
+        "full": "catalogue/photo-56-full.webp",
+        "sourceIndex": 56,
+        "alt": "Flores en blanco"
+      }
+    ]
+  },
+  {
+    "id": "MAD-057",
+    "name": "Rosas entre lavanda",
+    "description": "Flores rosadas con follaje y envoltura lavanda.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-57.webp",
+        "full": "catalogue/photo-57-full.webp",
+        "sourceIndex": 57,
+        "alt": "Rosas entre lavanda"
+      }
+    ]
+  },
+  {
+    "id": "MAD-058",
+    "name": "Corazón de rosas rosadas",
+    "description": "Rosas rosadas dispuestas en forma de corazón.",
+    "category": "Corazones",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-58.webp",
+        "full": "catalogue/photo-58-full.webp",
+        "sourceIndex": 58,
+        "alt": "Corazón de rosas rosadas"
+      }
+    ]
+  },
+  {
+    "id": "MAD-059",
+    "name": "Tulipanes para mamá",
+    "description": "Tulipanes de varios colores en una base con la palabra Mamá.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-59.webp",
+        "full": "catalogue/photo-59-full.webp",
+        "sourceIndex": 59,
+        "alt": "Tulipanes para mamá"
+      }
+    ]
+  },
+  {
+    "id": "MAD-060",
+    "name": "Amarillo radiante",
+    "description": "Rosas y flores amarillas con envoltura clara y lazo amarillo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-60.webp",
+        "full": "catalogue/photo-60-full.webp",
+        "sourceIndex": 60,
+        "alt": "Amarillo radiante"
+      }
+    ]
+  },
+  {
+    "id": "MAD-061",
+    "name": "Un abrazo blanco",
+    "description": "Ramo de flores blancas con envoltura en tonos claros.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-61.webp",
+        "full": "catalogue/photo-61-full.webp",
+        "sourceIndex": 61,
+        "alt": "Un abrazo blanco"
+      }
+    ]
+  },
+  {
+    "id": "MAD-062",
+    "name": "Rosas y lazo negro",
+    "description": "Rosas rojas en base blanca con lazo negro.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-62.webp",
+        "full": "catalogue/photo-62-full.webp",
+        "sourceIndex": 62,
+        "alt": "Rosas y lazo negro"
+      }
+    ]
+  },
+  {
+    "id": "MAD-063",
+    "name": "Rosas y lirios suaves",
+    "description": "Flores en tonos rosa claro con envoltura clara y cinta rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-63.webp",
+        "full": "catalogue/photo-63-full.webp",
+        "sourceIndex": 63,
+        "alt": "Rosas y lirios suaves"
+      }
+    ]
+  },
+  {
+    "id": "MAD-064",
+    "name": "Rosas y detalle en rosa",
+    "description": "Rosas rosadas con follaje, envoltura lavanda y detalle decorativo rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-64.webp",
+        "full": "catalogue/photo-64-full.webp",
+        "sourceIndex": 64,
+        "alt": "Rosas y detalle en rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-065",
+    "name": "Brillo de sol",
+    "description": "Rosas amarillas y flores pequeñas con envoltura blanca y cinta amarilla.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-65.webp",
+        "full": "catalogue/photo-65-full.webp",
+        "sourceIndex": 65,
+        "alt": "Brillo de sol"
+      }
+    ]
+  },
+  {
+    "id": "MAD-066",
+    "name": "Amarillo con lavanda",
+    "description": "Flores amarillas y rosadas con envoltura lavanda y un detalle circular.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-66.webp",
+        "full": "catalogue/photo-66-full.webp",
+        "sourceIndex": 66,
+        "alt": "Amarillo con lavanda"
+      }
+    ]
+  },
+  {
+    "id": "MAD-067",
+    "name": "Rosas envueltas en rosa",
+    "description": "Rosas en tonos suaves con envoltura rosa intensa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-67.webp",
+        "full": "catalogue/photo-67-full.webp",
+        "sourceIndex": 67,
+        "alt": "Rosas envueltas en rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-068",
+    "name": "Rosas para recordar",
+    "description": "Rosas rosadas con flores pequeñas y follaje en base. Fotografía compartida desde una publicación.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-68.webp",
+        "full": "catalogue/photo-68-full.webp",
+        "sourceIndex": 68,
+        "alt": "Rosas para recordar"
+      }
+    ]
+  },
+  {
+    "id": "MAD-069",
+    "name": "Jardín en envoltura rosa",
+    "description": "Flores rosadas, blancas y lavanda con envoltura y lazo rosa.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-69.webp",
+        "full": "catalogue/photo-69-full.webp",
+        "sourceIndex": 69,
+        "alt": "Jardín en envoltura rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-070",
+    "name": "Flores en violeta",
+    "description": "Rosas en tonos suaves y flores moradas con envoltura violeta.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-70.webp",
+        "full": "catalogue/photo-70-full.webp",
+        "sourceIndex": 70,
+        "alt": "Flores en violeta"
+      }
+    ]
+  },
+  {
+    "id": "MAD-071",
+    "name": "Delicadeza rosada",
+    "description": "Rosas rosadas y flores blancas pequeñas con envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-71.webp",
+        "full": "catalogue/photo-71-full.webp",
+        "sourceIndex": 71,
+        "alt": "Delicadeza rosada"
+      }
+    ]
+  },
+  {
+    "id": "MAD-072",
+    "name": "Para la mejor mamá",
+    "description": "Flores de colores suaves en base blanca con dedicatoria para mamá.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-72.webp",
+        "full": "catalogue/photo-72-full.webp",
+        "sourceIndex": 72,
+        "alt": "Para la mejor mamá"
+      }
+    ]
+  },
+  {
+    "id": "MAD-073",
+    "name": "Rosas en tonos suaves",
+    "description": "Rosas blancas y rosadas con flores de acento y envoltura clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-73.webp",
+        "full": "catalogue/photo-73-full.webp",
+        "sourceIndex": 73,
+        "alt": "Rosas en tonos suaves"
+      }
+    ]
+  },
+  {
+    "id": "MAD-074",
+    "name": "Ramo entre blanco y rosa",
+    "description": "Rosas y flores en tonos suaves con envoltura blanca.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-74.webp",
+        "full": "catalogue/photo-74-full.webp",
+        "sourceIndex": 74,
+        "alt": "Ramo entre blanco y rosa"
+      }
+    ]
+  },
+  {
+    "id": "MAD-075",
+    "name": "Rosas con detalle de corazón",
+    "description": "Rosas rojas con envoltura blanca y un detalle decorativo de corazón.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-75.webp",
+        "full": "catalogue/photo-75-full.webp",
+        "sourceIndex": 75,
+        "alt": "Rosas con detalle de corazón"
+      }
+    ]
+  },
+  {
+    "id": "MAD-076",
+    "name": "Corazón con lazo negro",
+    "description": "Arreglo de rosas rojas en forma de corazón con lazo negro.",
+    "category": "Corazones",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-76.webp",
+        "full": "catalogue/photo-76-full.webp",
+        "sourceIndex": 76,
+        "alt": "Corazón con lazo negro"
+      }
+    ]
+  },
+  {
+    "id": "MAD-077",
+    "name": "Rosas color durazno",
+    "description": "Rosas en tonos cálidos con envoltura dorada y clara.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-77.webp",
+        "full": "catalogue/photo-77-full.webp",
+        "sourceIndex": 77,
+        "alt": "Rosas color durazno"
+      }
+    ]
+  },
+  {
+    "id": "MAD-078",
+    "name": "Caja de flores y lazo",
+    "description": "Flores amarillas, rosadas y blancas en caja oscura con lazo dorado.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-78.webp",
+        "full": "catalogue/photo-78-full.webp",
+        "sourceIndex": 78,
+        "alt": "Caja de flores y lazo"
+      }
+    ]
+  },
+  {
+    "id": "MAD-079",
+    "name": "Jardín para mamá",
+    "description": "Rosas rosadas y blancas con flores de acento en base blanca.",
+    "category": "Arreglos en base",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-79.webp",
+        "full": "catalogue/photo-79-full.webp",
+        "sourceIndex": 79,
+        "alt": "Jardín para mamá"
+      }
+    ]
+  },
+  {
+    "id": "MAD-080",
+    "name": "Rosas bajo el sol",
+    "description": "Rosas rojas con envoltura blanca decorada y lazo.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-80.webp",
+        "full": "catalogue/photo-80-full.webp",
+        "sourceIndex": 80,
+        "alt": "Rosas bajo el sol"
+      }
+    ]
+  },
+  {
+    "id": "MAD-081",
+    "name": "Rosas con borde dorado",
+    "description": "Rosas rojas con envoltura negra de borde dorado.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-81.webp",
+        "full": "catalogue/photo-81-full.webp",
+        "sourceIndex": 81,
+        "alt": "Rosas con borde dorado"
+      }
+    ]
+  },
+  {
+    "id": "MAD-082",
+    "name": "Rojo, blanco y negro",
+    "description": "Rosas rojas y blancas con flores pequeñas y envoltura negra y blanca.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-82.webp",
+        "full": "catalogue/photo-82-full.webp",
+        "sourceIndex": 82,
+        "alt": "Rojo, blanco y negro"
+      }
+    ]
+  },
+  {
+    "id": "MAD-083",
+    "name": "Ramo rojo en blanco",
+    "description": "Rosas rojas con envoltura blanca decorada.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-83.webp",
+        "full": "catalogue/photo-83-full.webp",
+        "sourceIndex": 83,
+        "alt": "Ramo rojo en blanco"
+      }
+    ]
+  },
+  {
+    "id": "MAD-084",
+    "name": "Flores para un gran abrazo",
+    "description": "Ramo de rosas rosadas con follaje y envoltura rosa y negra.",
+    "category": "Ramos",
+    "price": null,
+    "images": [
+      {
+        "src": "catalogue/photo-84.webp",
+        "full": "catalogue/photo-84-full.webp",
+        "sourceIndex": 84,
+        "alt": "Flores para un gran abrazo"
+      }
+    ]
+  }
+]
