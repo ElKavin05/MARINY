@@ -110,3 +110,30 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;background:url("catalo
 @media(max-width:700px){body::before{background-size:500px;opacity:.13}.hero-rose{left:-14px;bottom:70px;width:77px}.star-a{left:-10px;font-size:32px}.star-c{right:-9px}.hero-orbit{inset:12% 8%}.heading-rose{right:4px;top:-12px;width:58px;opacity:.45}.card-rose{left:-16px;width:40px;opacity:.45}.closing-rose{width:60px;bottom:-8px}}
 @media(prefers-reduced-motion:reduce){.petal,.rose-heart,.hero-photo,.hero-orbit,.hero-star{animation:none!important}}
 @media(min-width:701px) and (max-width:1100px){.hero-orbit{inset:12% 10%}}
+
+/* Portada editorial inspirada en la referencia proporcionada por Kevin. */
+.campaign-hero{display:block;position:relative;isolation:isolate;overflow:hidden;padding:44px 0 0;background:#faeee8;color:#171312}
+.campaign-hero::before{content:"";position:absolute;inset:0;z-index:-1;background:radial-gradient(ellipse at 87% 72%,#efc5be70,transparent 62%);pointer-events:none}
+.campaign-inner{max-width:1120px}
+.campaign-title{text-align:center;position:relative;z-index:2;letter-spacing:-.06em;line-height:.9}
+.campaign-title span{display:block;font-style:italic;font-size:clamp(48px,7.2vw,98px);letter-spacing:-.055em;line-height:1.15}
+.campaign-title strong{display:block;font-size:clamp(82px,15.7vw,210px);font-weight:400;line-height:.94;letter-spacing:-.065em;padding-right:.065em}
+.campaign-title::after{content:"";display:block;width:58%;height:1px;background:#372927;margin:28px auto 0}
+.campaign-body{position:relative;display:grid;grid-template-columns:45% 55%;align-items:start;min-height:650px}
+.campaign-hero .hero-copy{z-index:2;position:relative;padding:36px 0 46px}
+.campaign-hero h2{font-size:clamp(38px,4.9vw,66px);line-height:1.03;font-style:italic;letter-spacing:-.045em}
+.campaign-hero .hero-copy>.campaign-message{font-family:Baskervville,Georgia,serif;font-size:clamp(25px,3.1vw,41px);line-height:1.18;font-style:italic;margin:30px 0 0;color:#29201e;max-width:none;letter-spacing:-.035em}
+.campaign-message strong{display:block;font-weight:600}
+.love-stroke{display:block;width:215px;height:58px;margin:5px 0 16px;fill:none;stroke:#dd7c91;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}
+.campaign-hero .button{background:#713746;border-color:#713746;color:#fff}
+.campaign-hero .hero-copy>.hero-note{max-width:29ch;font-size:11px;line-height:1.6;margin:14px 0 0;color:#67524d}
+.campaign-hero .hero-floral-stage{align-self:stretch;margin:-45px -110px 0 -55px;min-height:690px}
+.campaign-hero .hero-photo{border-radius:0;overflow:visible;background:none;height:100%;transform-origin:55% 80%}
+.campaign-hero .hero-photo>img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:none;object-position:center bottom}
+.campaign-hero .hero-photo figcaption{bottom:10px;left:auto;right:100px;background:none;color:#6e554e;font-size:10px;padding:0}
+.campaign-hero .hero-rose{left:20px;bottom:56px;width:65px;opacity:.65}
+.campaign-hero .star-a{left:20%;top:30%;font-size:32px}.campaign-hero .star-b{right:19%;top:10%;font-size:42px}.campaign-hero .star-c{right:18%;bottom:22%;font-size:28px}
+@media(hover:hover){.campaign-hero .button:hover{background:#8e4759}}
+@media(min-width:701px) and (max-width:1100px){.campaign-body{min-height:580px}.campaign-hero .hero-floral-stage{min-height:610px;margin-right:-70px}.campaign-hero .hero-copy{padding-top:32px}.campaign-hero .hero-photo figcaption{right:65px}}
+@media(max-width:700px){.campaign-hero{padding-top:30px}.campaign-inner{width:calc(100% - 36px)}.campaign-title span{font-size:clamp(36px,9.4vw,64px)}.campaign-title strong{font-size:19.2vw}.campaign-title::after{margin-top:18px;width:62%}.campaign-body{grid-template-columns:48% 52%;min-height:520px}.campaign-hero .hero-copy{padding:26px 0 28px}.campaign-hero h2{font-size:clamp(27px,6.1vw,43px);line-height:1.08}.campaign-hero .hero-copy>.campaign-message{font-size:clamp(20px,4.65vw,31px);line-height:1.2;margin-top:24px;width:112%}.campaign-hero .hero-floral-stage{margin:0 -105px 0 -45px;min-height:520px}.campaign-hero .hero-photo>img{object-position:50% bottom}.love-stroke{width:145px;height:40px;margin-top:10px}.campaign-hero .button{font-size:11px;gap:12px;padding:12px 15px;min-height:46px;white-space:nowrap}.campaign-hero .hero-copy>.hero-note{font-size:9px;max-width:19ch}.campaign-hero .hero-photo figcaption{right:90px;bottom:7px;font-size:8px;max-width:130px;text-align:right}.campaign-hero .hero-rose{display:none}.campaign-hero .star-a{left:25%;top:26%;font-size:23px}.campaign-hero .star-b{right:23%;top:8%;font-size:28px}.campaign-hero .star-c{right:30%;bottom:20%;font-size:21px}}
+@media(max-width:360px){.campaign-body{min-height:490px}.campaign-hero .hero-floral-stage{min-height:490px;margin-right:-95px}.campaign-hero h2{font-size:25px}.campaign-hero .hero-copy>.campaign-message{font-size:18px}.campaign-hero .button{font-size:10px;padding-inline:11px}.love-stroke{width:125px}}
