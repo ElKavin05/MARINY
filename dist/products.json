@@ -7,8 +7,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-01.webp",
-        "full": "catalogue/photo-01-full.webp",
+        "src": "catalogue/edited/MAD-001-toma-1.webp",
+        "full": "catalogue/edited/MAD-001-toma-1-full.webp",
         "sourceIndex": 1,
         "alt": "Jardín en canasta"
       }
@@ -22,8 +22,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-02.webp",
-        "full": "catalogue/photo-02-full.webp",
+        "src": "catalogue/edited/MAD-002-toma-1.webp",
+        "full": "catalogue/edited/MAD-002-toma-1-full.webp",
         "sourceIndex": 2,
         "alt": "Rosas con globos"
       }
@@ -37,8 +37,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-03.webp",
-        "full": "catalogue/photo-03-full.webp",
+        "src": "catalogue/edited/MAD-003-toma-1.webp",
+        "full": "catalogue/edited/MAD-003-toma-1-full.webp",
         "sourceIndex": 3,
         "alt": "Rosas para decirlo todo"
       }
@@ -52,8 +52,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-04.webp",
-        "full": "catalogue/photo-04-full.webp",
+        "src": "catalogue/edited/MAD-004-toma-1.webp",
+        "full": "catalogue/edited/MAD-004-toma-1-full.webp",
         "sourceIndex": 4,
         "alt": "Canasta carmesí"
       }
@@ -67,8 +67,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-05.webp",
-        "full": "catalogue/photo-05-full.webp",
+        "src": "catalogue/edited/MAD-005-toma-1.webp",
+        "full": "catalogue/edited/MAD-005-toma-1-full.webp",
         "sourceIndex": 5,
         "alt": "Gerberas para mamá"
       }
@@ -82,8 +82,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-06.webp",
-        "full": "catalogue/photo-06-full.webp",
+        "src": "catalogue/edited/MAD-006-toma-1.webp",
+        "full": "catalogue/edited/MAD-006-toma-1-full.webp",
         "sourceIndex": 6,
         "alt": "Flores para tu mesa"
       }
@@ -97,8 +97,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-07.webp",
-        "full": "catalogue/photo-07-full.webp",
+        "src": "catalogue/edited/MAD-007-toma-1.webp",
+        "full": "catalogue/edited/MAD-007-toma-1-full.webp",
         "sourceIndex": 7,
         "alt": "Rosas en cristal"
       }
@@ -112,8 +112,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-08.webp",
-        "full": "catalogue/photo-08-full.webp",
+        "src": "catalogue/edited/MAD-008-toma-1.webp",
+        "full": "catalogue/edited/MAD-008-toma-1-full.webp",
         "sourceIndex": 8,
         "alt": "Contraste de flores"
       }
@@ -127,8 +127,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-09.webp",
-        "full": "catalogue/photo-09-full.webp",
+        "src": "catalogue/edited/MAD-009-toma-1.webp",
+        "full": "catalogue/edited/MAD-009-toma-1-full.webp",
         "sourceIndex": 9,
         "alt": "Lirios amarillos"
       }
@@ -142,8 +142,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-10.webp",
-        "full": "catalogue/photo-10-full.webp",
+        "src": "catalogue/edited/MAD-010-toma-1.webp",
+        "full": "catalogue/edited/MAD-010-toma-1-full.webp",
         "sourceIndex": 10,
         "alt": "Alegría en rosa"
       }
@@ -157,8 +157,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-11.webp",
-        "full": "catalogue/photo-11-full.webp",
+        "src": "catalogue/edited/MAD-011-toma-1.webp",
+        "full": "catalogue/edited/MAD-011-toma-1-full.webp",
         "sourceIndex": 11,
         "alt": "Un ramo con sorpresa"
       }
@@ -172,8 +172,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-12.webp",
-        "full": "catalogue/photo-12-full.webp",
+        "src": "catalogue/edited/MAD-012-toma-1.webp",
+        "full": "catalogue/edited/MAD-012-toma-1-full.webp",
         "sourceIndex": 12,
         "alt": "Luz amarilla"
       }
@@ -187,8 +187,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-13.webp",
-        "full": "catalogue/photo-13-full.webp",
+        "src": "catalogue/edited/MAD-013-toma-1.webp",
+        "full": "catalogue/edited/MAD-013-toma-1-full.webp",
         "sourceIndex": 13,
         "alt": "Rosas con delicadeza"
       }
@@ -202,14 +202,14 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-14.webp",
-        "full": "catalogue/photo-14-full.webp",
+        "src": "catalogue/edited/MAD-014-toma-1.webp",
+        "full": "catalogue/edited/MAD-014-toma-1-full.webp",
         "sourceIndex": 14,
         "alt": "Abrazo de primavera · vista 1"
       },
       {
-        "src": "catalogue/photo-15.webp",
-        "full": "catalogue/photo-15-full.webp",
+        "src": "catalogue/edited/MAD-014-toma-2.webp",
+        "full": "catalogue/edited/MAD-014-toma-2-full.webp",
         "sourceIndex": 15,
         "alt": "Abrazo de primavera · vista 2"
       }
@@ -223,8 +223,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-16.webp",
-        "full": "catalogue/photo-16-full.webp",
+        "src": "catalogue/edited/MAD-016-toma-1.webp",
+        "full": "catalogue/edited/MAD-016-toma-1-full.webp",
         "sourceIndex": 16,
         "alt": "Canasta suave"
       }
@@ -238,8 +238,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-17.webp",
-        "full": "catalogue/photo-17-full.webp",
+        "src": "catalogue/edited/MAD-017-toma-1.webp",
+        "full": "catalogue/edited/MAD-017-toma-1-full.webp",
         "sourceIndex": 17,
         "alt": "Todo para mamá"
       }
@@ -253,8 +253,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-18.webp",
-        "full": "catalogue/photo-18-full.webp",
+        "src": "catalogue/edited/MAD-018-toma-1.webp",
+        "full": "catalogue/edited/MAD-018-toma-1-full.webp",
         "sourceIndex": 18,
         "alt": "Ramo en lavanda"
       }
@@ -268,8 +268,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-19.webp",
-        "full": "catalogue/photo-19-full.webp",
+        "src": "catalogue/edited/MAD-019-toma-1.webp",
+        "full": "catalogue/edited/MAD-019-toma-1-full.webp",
         "sourceIndex": 19,
         "alt": "Tonos de cariño"
       }
@@ -283,8 +283,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-20.webp",
-        "full": "catalogue/photo-20-full.webp",
+        "src": "catalogue/edited/MAD-020-toma-1.webp",
+        "full": "catalogue/edited/MAD-020-toma-1-full.webp",
         "sourceIndex": 20,
         "alt": "Pequeño jardín"
       }
@@ -298,8 +298,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-21.webp",
-        "full": "catalogue/photo-21-full.webp",
+        "src": "catalogue/edited/MAD-021-toma-1.webp",
+        "full": "catalogue/edited/MAD-021-toma-1-full.webp",
         "sourceIndex": 21,
         "alt": "Rosa y blanco"
       }
@@ -313,8 +313,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-22.webp",
-        "full": "catalogue/photo-22-full.webp",
+        "src": "catalogue/edited/MAD-022-toma-1.webp",
+        "full": "catalogue/edited/MAD-022-toma-1-full.webp",
         "sourceIndex": 22,
         "alt": "Flores para compartir"
       }
@@ -328,8 +328,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-23.webp",
-        "full": "catalogue/photo-23-full.webp",
+        "src": "catalogue/edited/MAD-023-toma-1.webp",
+        "full": "catalogue/edited/MAD-023-toma-1-full.webp",
         "sourceIndex": 23,
         "alt": "Rosas entre nubes"
       }
@@ -343,8 +343,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-24.webp",
-        "full": "catalogue/photo-24-full.webp",
+        "src": "catalogue/edited/MAD-024-toma-1.webp",
+        "full": "catalogue/edited/MAD-024-toma-1-full.webp",
         "sourceIndex": 24,
         "alt": "Selección de ramos"
       }
@@ -358,8 +358,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-25.webp",
-        "full": "catalogue/photo-25-full.webp",
+        "src": "catalogue/edited/MAD-025-toma-1.webp",
+        "full": "catalogue/edited/MAD-025-toma-1-full.webp",
         "sourceIndex": 25,
         "alt": "Jardín en caja blanca"
       }
@@ -373,8 +373,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-26.webp",
-        "full": "catalogue/photo-26-full.webp",
+        "src": "catalogue/edited/MAD-026-toma-1.webp",
+        "full": "catalogue/edited/MAD-026-toma-1-full.webp",
         "sourceIndex": 26,
         "alt": "Rosas de sol"
       }
@@ -388,8 +388,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-27.webp",
-        "full": "catalogue/photo-27-full.webp",
+        "src": "catalogue/edited/MAD-027-toma-1.webp",
+        "full": "catalogue/edited/MAD-027-toma-1-full.webp",
         "sourceIndex": 27,
         "alt": "Detalle durazno"
       }
@@ -403,8 +403,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-28.webp",
-        "full": "catalogue/photo-28-full.webp",
+        "src": "catalogue/edited/MAD-028-toma-1.webp",
+        "full": "catalogue/edited/MAD-028-toma-1-full.webp",
         "sourceIndex": 28,
         "alt": "Dulce celebración"
       }
@@ -418,8 +418,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-29.webp",
-        "full": "catalogue/photo-29-full.webp",
+        "src": "catalogue/edited/MAD-029-toma-1.webp",
+        "full": "catalogue/edited/MAD-029-toma-1-full.webp",
         "sourceIndex": 29,
         "alt": "Caja de color"
       }
@@ -433,8 +433,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-30.webp",
-        "full": "catalogue/photo-30-full.webp",
+        "src": "catalogue/edited/MAD-030-toma-1.webp",
+        "full": "catalogue/edited/MAD-030-toma-1-full.webp",
         "sourceIndex": 30,
         "alt": "Blanco sereno"
       }
@@ -448,8 +448,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-31.webp",
-        "full": "catalogue/photo-31-full.webp",
+        "src": "catalogue/edited/MAD-031-toma-1.webp",
+        "full": "catalogue/edited/MAD-031-toma-1-full.webp",
         "sourceIndex": 31,
         "alt": "Rosas en negro"
       }
@@ -463,8 +463,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-32.webp",
-        "full": "catalogue/photo-32-full.webp",
+        "src": "catalogue/edited/MAD-032-toma-1.webp",
+        "full": "catalogue/edited/MAD-032-toma-1-full.webp",
         "sourceIndex": 32,
         "alt": "Armonía floral"
       }
@@ -478,8 +478,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-33.webp",
-        "full": "catalogue/photo-33-full.webp",
+        "src": "catalogue/edited/MAD-033-toma-1.webp",
+        "full": "catalogue/edited/MAD-033-toma-1-full.webp",
         "sourceIndex": 33,
         "alt": "Canasta de jardín"
       }
@@ -493,8 +493,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-34.webp",
-        "full": "catalogue/photo-34-full.webp",
+        "src": "catalogue/edited/MAD-034-toma-1.webp",
+        "full": "catalogue/edited/MAD-034-toma-1-full.webp",
         "sourceIndex": 34,
         "alt": "Un ramo lleno de color"
       }
@@ -508,8 +508,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-35.webp",
-        "full": "catalogue/photo-35-full.webp",
+        "src": "catalogue/edited/MAD-035-toma-1.webp",
+        "full": "catalogue/edited/MAD-035-toma-1-full.webp",
         "sourceIndex": 35,
         "alt": "Caja de rosas pastel"
       }
@@ -523,8 +523,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-36.webp",
-        "full": "catalogue/photo-36-full.webp",
+        "src": "catalogue/edited/MAD-036-toma-1.webp",
+        "full": "catalogue/edited/MAD-036-toma-1-full.webp",
         "sourceIndex": 36,
         "alt": "Rosas y detalle especial"
       }
@@ -538,8 +538,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-37.webp",
-        "full": "catalogue/photo-37-full.webp",
+        "src": "catalogue/edited/MAD-037-toma-1.webp",
+        "full": "catalogue/edited/MAD-037-toma-1-full.webp",
         "sourceIndex": 37,
         "alt": "Sorpresa carmesí"
       }
@@ -553,8 +553,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-38.webp",
-        "full": "catalogue/photo-38-full.webp",
+        "src": "catalogue/edited/MAD-038-toma-1.webp",
+        "full": "catalogue/edited/MAD-038-toma-1-full.webp",
         "sourceIndex": 38,
         "alt": "Rosas durazno"
       }
@@ -568,8 +568,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-39.webp",
-        "full": "catalogue/photo-39-full.webp",
+        "src": "catalogue/edited/MAD-039-toma-1.webp",
+        "full": "catalogue/edited/MAD-039-toma-1-full.webp",
         "sourceIndex": 39,
         "alt": "Caja rosa"
       }
@@ -583,8 +583,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-40.webp",
-        "full": "catalogue/photo-40-full.webp",
+        "src": "catalogue/edited/MAD-040-toma-1.webp",
+        "full": "catalogue/edited/MAD-040-toma-1-full.webp",
         "sourceIndex": 40,
         "alt": "Ramo de rosas suaves"
       }
@@ -598,14 +598,14 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-41.webp",
-        "full": "catalogue/photo-41-full.webp",
+        "src": "catalogue/edited/MAD-041-toma-1.webp",
+        "full": "catalogue/edited/MAD-041-toma-1-full.webp",
         "sourceIndex": 41,
         "alt": "Blanco y lavanda · vista 1"
       },
       {
-        "src": "catalogue/photo-42.webp",
-        "full": "catalogue/photo-42-full.webp",
+        "src": "catalogue/edited/MAD-041-toma-2.webp",
+        "full": "catalogue/edited/MAD-041-toma-2-full.webp",
         "sourceIndex": 42,
         "alt": "Blanco y lavanda · vista 2"
       }
@@ -619,8 +619,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-43.webp",
-        "full": "catalogue/photo-43-full.webp",
+        "src": "catalogue/edited/MAD-043-toma-1.webp",
+        "full": "catalogue/edited/MAD-043-toma-1-full.webp",
         "sourceIndex": 43,
         "alt": "Cariño en tonos cálidos"
       }
@@ -634,8 +634,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-44.webp",
-        "full": "catalogue/photo-44-full.webp",
+        "src": "catalogue/edited/MAD-044-toma-1.webp",
+        "full": "catalogue/edited/MAD-044-toma-1-full.webp",
         "sourceIndex": 44,
         "alt": "Lirios y rosas"
       }
@@ -649,8 +649,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-45.webp",
-        "full": "catalogue/photo-45-full.webp",
+        "src": "catalogue/edited/MAD-045-toma-1.webp",
+        "full": "catalogue/edited/MAD-045-toma-1-full.webp",
         "sourceIndex": 45,
         "alt": "Rosas con lazo rojo"
       }
@@ -664,8 +664,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-46.webp",
-        "full": "catalogue/photo-46-full.webp",
+        "src": "catalogue/edited/MAD-046-toma-1.webp",
+        "full": "catalogue/edited/MAD-046-toma-1-full.webp",
         "sourceIndex": 46,
         "alt": "Canasta de ensueño"
       }
@@ -679,8 +679,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-47.webp",
-        "full": "catalogue/photo-47-full.webp",
+        "src": "catalogue/edited/MAD-047-toma-1.webp",
+        "full": "catalogue/edited/MAD-047-toma-1-full.webp",
         "sourceIndex": 47,
         "alt": "Rosas en base rosa"
       }
@@ -694,8 +694,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-48.webp",
-        "full": "catalogue/photo-48-full.webp",
+        "src": "catalogue/edited/MAD-048-toma-1.webp",
+        "full": "catalogue/edited/MAD-048-toma-1-full.webp",
         "sourceIndex": 48,
         "alt": "Corazón en caja"
       }
@@ -709,14 +709,14 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-49.webp",
-        "full": "catalogue/photo-49-full.webp",
+        "src": "catalogue/edited/MAD-049-toma-1.webp",
+        "full": "catalogue/edited/MAD-049-toma-1-full.webp",
         "sourceIndex": 49,
         "alt": "Corazón de rosas rojas · vista 1"
       },
       {
-        "src": "catalogue/photo-50.webp",
-        "full": "catalogue/photo-50-full.webp",
+        "src": "catalogue/edited/MAD-049-toma-2.webp",
+        "full": "catalogue/edited/MAD-049-toma-2-full.webp",
         "sourceIndex": 50,
         "alt": "Corazón de rosas rojas · vista 2"
       }
@@ -730,8 +730,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-51.webp",
-        "full": "catalogue/photo-51-full.webp",
+        "src": "catalogue/edited/MAD-051-toma-1.webp",
+        "full": "catalogue/edited/MAD-051-toma-1-full.webp",
         "sourceIndex": 51,
         "alt": "Rojo y rosa en florero"
       }
@@ -745,8 +745,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-52.webp",
-        "full": "catalogue/photo-52-full.webp",
+        "src": "catalogue/edited/MAD-052-toma-1.webp",
+        "full": "catalogue/edited/MAD-052-toma-1-full.webp",
         "sourceIndex": 52,
         "alt": "Una rosa especial"
       }
@@ -760,8 +760,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-53.webp",
-        "full": "catalogue/photo-53-full.webp",
+        "src": "catalogue/edited/MAD-053-toma-1.webp",
+        "full": "catalogue/edited/MAD-053-toma-1-full.webp",
         "sourceIndex": 53,
         "alt": "Orquídea en maceta"
       }
@@ -775,8 +775,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-54.webp",
-        "full": "catalogue/photo-54-full.webp",
+        "src": "catalogue/edited/MAD-054-toma-1.webp",
+        "full": "catalogue/edited/MAD-054-toma-1-full.webp",
         "sourceIndex": 54,
         "alt": "Tulipanes rosados"
       }
@@ -790,8 +790,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-55.webp",
-        "full": "catalogue/photo-55-full.webp",
+        "src": "catalogue/edited/MAD-055-toma-1.webp",
+        "full": "catalogue/edited/MAD-055-toma-1-full.webp",
         "sourceIndex": 55,
         "alt": "Girasoles para alegrar"
       }
@@ -805,8 +805,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-56.webp",
-        "full": "catalogue/photo-56-full.webp",
+        "src": "catalogue/edited/MAD-056-toma-1.webp",
+        "full": "catalogue/edited/MAD-056-toma-1-full.webp",
         "sourceIndex": 56,
         "alt": "Flores en blanco"
       }
@@ -820,8 +820,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-57.webp",
-        "full": "catalogue/photo-57-full.webp",
+        "src": "catalogue/edited/MAD-057-toma-1.webp",
+        "full": "catalogue/edited/MAD-057-toma-1-full.webp",
         "sourceIndex": 57,
         "alt": "Rosas entre lavanda"
       }
@@ -835,8 +835,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-58.webp",
-        "full": "catalogue/photo-58-full.webp",
+        "src": "catalogue/edited/MAD-058-toma-1.webp",
+        "full": "catalogue/edited/MAD-058-toma-1-full.webp",
         "sourceIndex": 58,
         "alt": "Corazón de rosas rosadas"
       }
@@ -850,8 +850,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-59.webp",
-        "full": "catalogue/photo-59-full.webp",
+        "src": "catalogue/edited/MAD-059-toma-1.webp",
+        "full": "catalogue/edited/MAD-059-toma-1-full.webp",
         "sourceIndex": 59,
         "alt": "Tulipanes para mamá"
       }
@@ -865,8 +865,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-60.webp",
-        "full": "catalogue/photo-60-full.webp",
+        "src": "catalogue/edited/MAD-060-toma-1.webp",
+        "full": "catalogue/edited/MAD-060-toma-1-full.webp",
         "sourceIndex": 60,
         "alt": "Amarillo radiante"
       }
@@ -880,8 +880,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-61.webp",
-        "full": "catalogue/photo-61-full.webp",
+        "src": "catalogue/edited/MAD-061-toma-1.webp",
+        "full": "catalogue/edited/MAD-061-toma-1-full.webp",
         "sourceIndex": 61,
         "alt": "Un abrazo blanco"
       }
@@ -895,8 +895,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-62.webp",
-        "full": "catalogue/photo-62-full.webp",
+        "src": "catalogue/edited/MAD-062-toma-1.webp",
+        "full": "catalogue/edited/MAD-062-toma-1-full.webp",
         "sourceIndex": 62,
         "alt": "Rosas y lazo negro"
       }
@@ -910,8 +910,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-63.webp",
-        "full": "catalogue/photo-63-full.webp",
+        "src": "catalogue/edited/MAD-063-toma-1.webp",
+        "full": "catalogue/edited/MAD-063-toma-1-full.webp",
         "sourceIndex": 63,
         "alt": "Rosas y lirios suaves"
       }
@@ -925,8 +925,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-64.webp",
-        "full": "catalogue/photo-64-full.webp",
+        "src": "catalogue/edited/MAD-064-toma-1.webp",
+        "full": "catalogue/edited/MAD-064-toma-1-full.webp",
         "sourceIndex": 64,
         "alt": "Rosas y detalle en rosa"
       }
@@ -940,8 +940,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-65.webp",
-        "full": "catalogue/photo-65-full.webp",
+        "src": "catalogue/edited/MAD-065-toma-1.webp",
+        "full": "catalogue/edited/MAD-065-toma-1-full.webp",
         "sourceIndex": 65,
         "alt": "Brillo de sol"
       }
@@ -955,8 +955,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-66.webp",
-        "full": "catalogue/photo-66-full.webp",
+        "src": "catalogue/edited/MAD-066-toma-1.webp",
+        "full": "catalogue/edited/MAD-066-toma-1-full.webp",
         "sourceIndex": 66,
         "alt": "Amarillo con lavanda"
       }
@@ -970,8 +970,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-67.webp",
-        "full": "catalogue/photo-67-full.webp",
+        "src": "catalogue/edited/MAD-067-toma-1.webp",
+        "full": "catalogue/edited/MAD-067-toma-1-full.webp",
         "sourceIndex": 67,
         "alt": "Rosas envueltas en rosa"
       }
@@ -985,8 +985,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-68.webp",
-        "full": "catalogue/photo-68-full.webp",
+        "src": "catalogue/edited/MAD-068-toma-1.webp",
+        "full": "catalogue/edited/MAD-068-toma-1-full.webp",
         "sourceIndex": 68,
         "alt": "Rosas para recordar"
       }
@@ -1000,8 +1000,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-69.webp",
-        "full": "catalogue/photo-69-full.webp",
+        "src": "catalogue/edited/MAD-069-toma-1.webp",
+        "full": "catalogue/edited/MAD-069-toma-1-full.webp",
         "sourceIndex": 69,
         "alt": "Jardín en envoltura rosa"
       }
@@ -1015,8 +1015,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-70.webp",
-        "full": "catalogue/photo-70-full.webp",
+        "src": "catalogue/edited/MAD-070-toma-1.webp",
+        "full": "catalogue/edited/MAD-070-toma-1-full.webp",
         "sourceIndex": 70,
         "alt": "Flores en violeta"
       }
@@ -1030,8 +1030,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-71.webp",
-        "full": "catalogue/photo-71-full.webp",
+        "src": "catalogue/edited/MAD-071-toma-1.webp",
+        "full": "catalogue/edited/MAD-071-toma-1-full.webp",
         "sourceIndex": 71,
         "alt": "Delicadeza rosada"
       }
@@ -1045,8 +1045,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-72.webp",
-        "full": "catalogue/photo-72-full.webp",
+        "src": "catalogue/edited/MAD-072-toma-1.webp",
+        "full": "catalogue/edited/MAD-072-toma-1-full.webp",
         "sourceIndex": 72,
         "alt": "Para la mejor mamá"
       }
@@ -1060,8 +1060,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-73.webp",
-        "full": "catalogue/photo-73-full.webp",
+        "src": "catalogue/edited/MAD-073-toma-1.webp",
+        "full": "catalogue/edited/MAD-073-toma-1-full.webp",
         "sourceIndex": 73,
         "alt": "Rosas en tonos suaves"
       }
@@ -1075,8 +1075,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-74.webp",
-        "full": "catalogue/photo-74-full.webp",
+        "src": "catalogue/edited/MAD-074-toma-1.webp",
+        "full": "catalogue/edited/MAD-074-toma-1-full.webp",
         "sourceIndex": 74,
         "alt": "Ramo entre blanco y rosa"
       }
@@ -1090,8 +1090,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-75.webp",
-        "full": "catalogue/photo-75-full.webp",
+        "src": "catalogue/edited/MAD-075-toma-1.webp",
+        "full": "catalogue/edited/MAD-075-toma-1-full.webp",
         "sourceIndex": 75,
         "alt": "Rosas con detalle de corazón"
       }
@@ -1105,8 +1105,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-76.webp",
-        "full": "catalogue/photo-76-full.webp",
+        "src": "catalogue/edited/MAD-076-toma-1.webp",
+        "full": "catalogue/edited/MAD-076-toma-1-full.webp",
         "sourceIndex": 76,
         "alt": "Corazón con lazo negro"
       }
@@ -1120,8 +1120,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-77.webp",
-        "full": "catalogue/photo-77-full.webp",
+        "src": "catalogue/edited/MAD-077-toma-1.webp",
+        "full": "catalogue/edited/MAD-077-toma-1-full.webp",
         "sourceIndex": 77,
         "alt": "Rosas color durazno"
       }
@@ -1135,8 +1135,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-78.webp",
-        "full": "catalogue/photo-78-full.webp",
+        "src": "catalogue/edited/MAD-078-toma-1.webp",
+        "full": "catalogue/edited/MAD-078-toma-1-full.webp",
         "sourceIndex": 78,
         "alt": "Caja de flores y lazo"
       }
@@ -1150,8 +1150,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-79.webp",
-        "full": "catalogue/photo-79-full.webp",
+        "src": "catalogue/edited/MAD-079-toma-1.webp",
+        "full": "catalogue/edited/MAD-079-toma-1-full.webp",
         "sourceIndex": 79,
         "alt": "Jardín para mamá"
       }
@@ -1165,8 +1165,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-80.webp",
-        "full": "catalogue/photo-80-full.webp",
+        "src": "catalogue/edited/MAD-080-toma-1.webp",
+        "full": "catalogue/edited/MAD-080-toma-1-full.webp",
         "sourceIndex": 80,
         "alt": "Rosas bajo el sol"
       }
@@ -1180,8 +1180,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-81.webp",
-        "full": "catalogue/photo-81-full.webp",
+        "src": "catalogue/edited/MAD-081-toma-1.webp",
+        "full": "catalogue/edited/MAD-081-toma-1-full.webp",
         "sourceIndex": 81,
         "alt": "Rosas con borde dorado"
       }
@@ -1195,8 +1195,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-82.webp",
-        "full": "catalogue/photo-82-full.webp",
+        "src": "catalogue/edited/MAD-082-toma-1.webp",
+        "full": "catalogue/edited/MAD-082-toma-1-full.webp",
         "sourceIndex": 82,
         "alt": "Rojo, blanco y negro"
       }
@@ -1210,8 +1210,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-83.webp",
-        "full": "catalogue/photo-83-full.webp",
+        "src": "catalogue/edited/MAD-083-toma-1.webp",
+        "full": "catalogue/edited/MAD-083-toma-1-full.webp",
         "sourceIndex": 83,
         "alt": "Ramo rojo en blanco"
       }
@@ -1225,8 +1225,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/photo-84.webp",
-        "full": "catalogue/photo-84-full.webp",
+        "src": "catalogue/edited/MAD-084-toma-1.webp",
+        "full": "catalogue/edited/MAD-084-toma-1-full.webp",
         "sourceIndex": 84,
         "alt": "Flores para un gran abrazo"
       }
