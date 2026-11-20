@@ -22,3 +22,5 @@ La publicación requiere push a catalogo-dia-madres. Confirmar commit y estado s
 
 ## Retirada de campaña
 Al terminar la campaña, eliminar el proyecto Cloudflare mariny-catalogo-madres o sustituirlo por un aviso de cierre, según indique Kevin. Conservar la rama y los originales como archivo. Esa acción requiere un encargo de retirada.
+
+Actualización floral del 19/11/2026: fondo crema con estampado tenue de rosas rojas generado con ImageGen, rosas vectoriales que abren y cierran sus pétalos en portada y márgenes, y balanceo del arreglo con estrellas y órbitas. Movimiento CSS pausado fuera de vista y en pestañas ocultas, con respeto por movimiento reducido. Fuentes y prompt en assets/catalogue-design/MEDIA.md. Verificación en tmp/floral-qa.cjs y capturas tmp/floral-*.png.

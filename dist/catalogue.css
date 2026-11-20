@@ -74,3 +74,39 @@ dialog button{min-height:44px;border:1px solid #ab9d95;background:transparent;pa
 @media(max-width:360px){.hero h1{font-size:3.9rem}.hero-photo>img{height:350px}.photo-button img{height:340px}}
 @media(prefers-reduced-motion:no-preference){.hero-copy{animation:enter .6s var(--ease) both}.card{animation:enter .35s var(--ease) both}@keyframes enter{from{opacity:.7;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}}
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+
+/* Estampado botánico y rosas en movimiento para la colección. */
+body{position:relative;isolation:isolate}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:url("catalogue/rose-pattern.webp") repeat 25px 0/680px 680px;opacity:.18;pointer-events:none}
+.video-section{background-image:linear-gradient(#eee6e0e8,#eee6e0e8),url("catalogue/rose-pattern.webp");background-size:auto,680px}
+.hero-floral-stage{position:relative;min-width:0;isolation:isolate;--floral-play:paused}
+.hero-floral-stage.motion-visible,.bloom-slot.motion-visible{--floral-play:running}
+.hero-photo{animation:arrangement-sway 10s ease-in-out infinite;animation-play-state:var(--floral-play);transform-origin:50% 85%;z-index:1}
+.hero-orbit{position:absolute;inset:6% -4%;border:1px solid #b99b973b;border-radius:50%;pointer-events:none;animation:floral-orbit 18s ease-in-out infinite alternate;animation-play-state:var(--floral-play);z-index:0}
+.orbit-b{inset:0 3%;border-style:dashed;animation-duration:23s;animation-direction:alternate-reverse}
+.hero-star{position:absolute;z-index:3;color:#d3a62d;line-height:1;pointer-events:none;animation:floral-sparkle 4s ease-in-out infinite;animation-play-state:var(--floral-play);text-shadow:0 1px 0 #fff}
+.star-a{left:-17px;top:21%;font-size:46px}
+.star-b{right:7%;top:-14px;font-size:38px;animation-delay:-1.2s}
+.star-c{right:-15px;bottom:20%;font-size:28px;animation-delay:-2.5s}
+.bloom-slot{display:block;position:absolute;width:90px;pointer-events:none;--floral-play:paused}
+.bloom-rose{display:block;width:100%;height:auto;overflow:visible}
+.hero-rose{left:-43px;bottom:65px;width:95px;z-index:3;transform:rotate(-18deg)}
+.collection-heading{position:relative}
+.heading-rose{right:43%;top:-32px;width:76px;transform:rotate(14deg);opacity:.7}
+.card{position:relative;isolation:isolate}
+.card-rose{left:-34px;top:58%;width:58px;z-index:-1;opacity:.6;transform:rotate(-23deg)}
+.closing{position:relative}
+.closing-rose{right:0;bottom:-10px;width:85px;opacity:.65;transform:rotate(22deg)}
+.petal{transform-origin:60px 75px;animation:rose-bloom 9s ease-in-out var(--petal-delay,0s) infinite;animation-play-state:var(--floral-play)}
+.inner-petal{animation-name:rose-inner;animation-duration:9s}
+.rose-heart{transform-origin:60px 65px;animation:rose-heart 9s ease-in-out infinite;animation-play-state:var(--floral-play)}
+@keyframes rose-bloom{0%,100%{transform:scale(.58,.8) rotate(16deg)}45%,60%{transform:scale(1.08,1) rotate(-7deg)}}
+@keyframes rose-inner{0%,100%{transform:scale(.75,.87) rotate(10deg)}45%,60%{transform:scale(1) rotate(-5deg)}}
+@keyframes rose-heart{0%,100%{transform:scale(.9)}45%,60%{transform:scale(1.04)}}
+@keyframes arrangement-sway{0%,100%{transform:translateY(3px) rotate(-.45deg)}50%{transform:translateY(-6px) rotate(.5deg)}}
+@keyframes floral-sparkle{0%,100%{opacity:.5;transform:scale(.8) rotate(-12deg)}50%{opacity:1;transform:scale(1.12) rotate(12deg)}}
+@keyframes floral-orbit{from{transform:rotate(-13deg)}to{transform:rotate(13deg)}}
+.floral-hidden .petal,.floral-hidden .rose-heart,.floral-hidden .hero-photo,.floral-hidden .hero-orbit,.floral-hidden .hero-star{animation-play-state:paused!important}
+@media(max-width:700px){body::before{background-size:500px;opacity:.13}.hero-rose{left:-14px;bottom:70px;width:77px}.star-a{left:-10px;font-size:32px}.star-c{right:-9px}.hero-orbit{inset:12% 8%}.heading-rose{right:4px;top:-12px;width:58px;opacity:.45}.card-rose{left:-16px;width:40px;opacity:.45}.closing-rose{width:60px;bottom:-8px}}
+@media(prefers-reduced-motion:reduce){.petal,.rose-heart,.hero-photo,.hero-orbit,.hero-star{animation:none!important}}
+@media(min-width:701px) and (max-width:1100px){.hero-orbit{inset:12% 10%}}

@@ -37,9 +37,10 @@ async function loadProducts() {
     const response = await fetch('products.json');
     if (!response.ok) throw new Error('No se pudo cargar el catálogo.');
     products = await response.json();
-    productsContainer.innerHTML = products.map(product => {
+    productsContainer.innerHTML = products.map((product, index) => {
       const image = product.images[0];
       return `<article class="card" data-id="${escapeHtml(product.id)}" data-category="${escapeHtml(product.category)}">
+        ${index % 9 === 0 ? '<span class="bloom-slot card-rose" data-bloom-rose aria-hidden="true"></span>' : ''}
         <button class="photo-button" type="button" data-gallery="${escapeHtml(product.id)}" aria-label="Ver fotografías de ${escapeHtml(product.name)}">
           <img src="${escapeHtml(image.src)}" alt="${escapeHtml(image.alt)}" width="720" height="900" loading="lazy" decoding="async">
           <span class="zoom-label">${product.images.length > 1 ? product.images.length + ' fotografías · ' : ''}Ampliar ↗</span>
@@ -53,6 +54,7 @@ async function loadProducts() {
         </form>
       </article>`;
     }).join('');
+    installRoses();
     applyCategory();
   } catch (error) {
     counter.textContent = 'Catálogo temporalmente no disponible.';
@@ -127,4 +129,30 @@ gallery.addEventListener('keydown', event => {
     changePhoto(event.key === 'ArrowLeft' ? -1 : 1);
   }
 });
+
+// Rosas vectoriales originales, con pétalos independientes para el ciclo de apertura.
+const petalAngles = [-64, -32, 0, 32, 64];
+const roseArtwork = `<svg class="bloom-rose" viewBox="0 0 120 155" focusable="false" aria-hidden="true">
+  <path d="M60 71 C54 93 67 111 57 145" fill="none" stroke="#7f8d6d" stroke-width="2"/>
+  <path d="M60 115 C39 117 30 105 25 98 C44 94 57 101 60 115Z" fill="#889c78"/>
+  <path d="M61 102 C81 103 92 88 94 82 C76 83 64 89 61 102Z" fill="#7b916d"/>
+  ${petalAngles.map((angle,index) => `<g transform="rotate(${angle} 60 75)"><g class="petal outer-petal" style="--petal-delay:${index * -.3}s"><path d="M60 77 C35 69 24 44 38 28 C51 16 76 35 60 77Z" fill="${['#9d3048','#c34357','#b92f46','#cf5263','#a82f45'][index]}"/><path d="M60 74 C49 58 42 41 43 30" fill="none" stroke="#ed9aa1" stroke-width=".8" opacity=".5"/></g></g>`).join('')}
+  ${[-28,8,40].map((angle,index) => `<g transform="rotate(${angle} 60 73)"><g class="petal inner-petal" style="--petal-delay:${index * -.25}s"><path d="M60 77 C40 64 39 44 51 36 C66 30 78 50 60 77Z" fill="${['#b43149','#d45a6b','#9e283f'][index]}"/></g></g>`).join('')}
+  <path class="rose-heart" d="M59 74 C46 64 48 51 58 48 C70 44 78 57 67 65 C62 69 53 62 59 57 C63 54 69 58 65 62" fill="#b52f47" stroke="#f0a5ac" stroke-width="1.1"/>
+</svg>`;
+const floralObserver = new IntersectionObserver(entries => {
+  for (const entry of entries) entry.target.classList.toggle('motion-visible', entry.isIntersecting);
+}, {rootMargin:'40px'});
+function installRoses() {
+  for (const slot of document.querySelectorAll('[data-bloom-rose]:not([data-rose-ready])')) {
+    slot.innerHTML = roseArtwork;
+    slot.dataset.roseReady = 'true';
+    floralObserver.observe(slot);
+  }
+}
+document.addEventListener('visibilitychange', () => {
+  document.body.classList.toggle('floral-hidden', document.hidden);
+});
+for (const decoration of document.querySelectorAll('.hero-floral-stage')) floralObserver.observe(decoration);
+installRoses();
 loadProducts();

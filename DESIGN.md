@@ -4,3 +4,5 @@
 Portada «Flores para mamá.» con foto 17 del ZIP. Catálogo81 productos,84 fotos; categorías Ramos, Arreglos en base y Corazones. Retícula3/2/1 columnas; fotografía completa sobre fondo neutro y ampliación. Códigos estables, precio pendiente, cantidad y consulta individual. Modal nativo dialog con retorno de foco, flechas y Escape. Las cantidades sobreviven al filtrado dentro de la visita.
 
 Videos al final, controles y pósteres, sin reproducción automática. Entradas suaves y hover discretos con adaptación a movimiento reducido. Referencias y procedencia en README y assets/catalogue-originals/sources.json. No usar la branch temporal como sustituto de main.
+
+Actualización floral del 19/11/2026: fondo crema con estampado tenue de rosas rojas generado con ImageGen, rosas vectoriales que abren y cierran sus pétalos en portada y márgenes, y balanceo del arreglo con estrellas y órbitas. Movimiento CSS pausado fuera de vista y en pestañas ocultas, con respeto por movimiento reducido. Fuentes y prompt en assets/catalogue-design/MEDIA.md. Verificación en tmp/floral-qa.cjs y capturas tmp/floral-*.png.
