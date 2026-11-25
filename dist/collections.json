@@ -1,0 +1,2447 @@
+{
+  "version": 1,
+  "floral": [
+    {
+      "id": "FL-001",
+      "name": "Rosas durazno",
+      "description": "Rosas en tonos durazno, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura con lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-013-720.webp",
+          "full": "assets/collections/floral-013-full.webp",
+          "alt": "Rosas durazno. Rosas en tonos durazno, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura con lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-002",
+      "name": "Rosas en tonos cÃƒÆ’Ã‚Â¡lidos",
+      "description": "Ramo de rosas en tonos durazno y amarillo con envoltura clara y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-018-720.webp",
+          "full": "assets/collections/floral-018-full.webp",
+          "alt": "Rosas en tonos cÃƒÆ’Ã‚Â¡lidos. Ramo de rosas en tonos durazno y amarillo con envoltura clara y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-003",
+      "name": "Un abrazo en rosa",
+      "description": "Ramo de rosas y flores en tonos suaves con envoltura rosa y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-019-720.webp",
+          "full": "assets/collections/floral-019-full.webp",
+          "alt": "Un abrazo en rosa. Ramo de rosas y flores en tonos suaves con envoltura rosa y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-004",
+      "name": "Flores para sorprender",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas y flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento en tonos suaves.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-020-720.webp",
+          "full": "assets/collections/floral-020-full.webp",
+          "alt": "Flores para sorprender. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas y flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento en tonos suaves.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-005",
+      "name": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n de color",
+      "description": "Canasta de flores amarillas, rosadas, blancas y moradas con lazo lila.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-021-720.webp",
+          "full": "assets/collections/floral-021-full.webp",
+          "alt": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n de color. Canasta de flores amarillas, rosadas, blancas y moradas con lazo lila.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-006",
+      "name": "Flores en fucsia",
+      "description": "Ramo de rosas y flores de acompaÃƒÆ’Ã‚Â±amiento con envoltura fucsia y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-024-720.webp",
+          "full": "assets/collections/floral-024-full.webp",
+          "alt": "Flores en fucsia. Ramo de rosas y flores de acompaÃƒÆ’Ã‚Â±amiento con envoltura fucsia y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-007",
+      "name": "Flores y un abrazo",
+      "description": "Ramo en envoltura rosa con flores de colores y un osito de peluche.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-092-720.webp",
+          "full": "assets/collections/floral-092-full.webp",
+          "alt": "Flores y un abrazo. Ramo en envoltura rosa con flores de colores y un osito de peluche.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-008",
+      "name": "Un detalle para mamÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡",
+      "description": "Caja floral con flores rosadas y amarillas, lazos y espejo con dedicatoria.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-027-720.webp",
+          "full": "assets/collections/floral-027-full.webp",
+          "alt": "Un detalle para mamÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡. Caja floral con flores rosadas y amarillas, lazos y espejo con dedicatoria.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-009",
+      "name": "Encanto lila",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores blancas, lilas y azules en recipiente morado.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-064-720.webp",
+          "full": "assets/collections/floral-064-full.webp",
+          "alt": "Encanto lila. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores blancas, lilas y azules en recipiente morado.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-010",
+      "name": "Un dulce detalle",
+      "description": "Ramo en tonos rosa y vino con envoltura satinada y complementos de regalo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-065-720.webp",
+          "full": "assets/collections/floral-065-full.webp",
+          "alt": "Un dulce detalle. Ramo en tonos rosa y vino con envoltura satinada y complementos de regalo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-011",
+      "name": "Elegancia en blanco",
+      "description": "Ramo de rosas claras con envoltura negra, transparente y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-066-720.webp",
+          "full": "assets/collections/floral-066-full.webp",
+          "alt": "Elegancia en blanco. Ramo de rosas claras con envoltura negra, transparente y lazo.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "thumb": "assets/collections/floral-069-720.webp",
+          "full": "assets/collections/floral-069-full.webp",
+          "alt": "Elegancia en blanco. Ramo de rosas claras con envoltura negra, transparente y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-012",
+      "name": "Colores que acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±an",
+      "description": "Ramo multicolor con flores moradas, rosadas y amarillas.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-070-720.webp",
+          "full": "assets/collections/floral-070-full.webp",
+          "alt": "Colores que acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±an. Ramo multicolor con flores moradas, rosadas y amarillas.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-013",
+      "name": "Entre rosas y flores",
+      "description": "Ramo de flores rosadas y moradas con envoltura clara y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-071-720.webp",
+          "full": "assets/collections/floral-071-full.webp",
+          "alt": "Entre rosas y flores. Ramo de flores rosadas y moradas con envoltura clara y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-014",
+      "name": "Delicadeza floral",
+      "description": "Ramo en tonos rosados y morados con flores blancas de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-072-720.webp",
+          "full": "assets/collections/floral-072-full.webp",
+          "alt": "Delicadeza floral. Ramo en tonos rosados y morados con flores blancas de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-015",
+      "name": "Rosas con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o",
+      "description": "Rosas en tonos rosa y vino en envoltura con lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-074-720.webp",
+          "full": "assets/collections/floral-074-full.webp",
+          "alt": "Rosas con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o. Rosas en tonos rosa y vino en envoltura con lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-016",
+      "name": "Un jardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n para ti",
+      "description": "Ramo de flores blancas, rosadas y moradas con follaje y envoltura rosa.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-079-720.webp",
+          "full": "assets/collections/floral-079-full.webp",
+          "alt": "Un jardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n para ti. Ramo de flores blancas, rosadas y moradas con follaje y envoltura rosa.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-017",
+      "name": "Rojo que enamora",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y follaje en base blanca.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-095-720.webp",
+          "full": "assets/collections/floral-095-full.webp",
+          "alt": "Rojo que enamora. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y follaje en base blanca.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-018",
+      "name": "Un sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ entre flores",
+      "description": "Ramo de novia de flores blancas y rosas claras con tallos sujetos con cinta.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-103-720.webp",
+          "full": "assets/collections/floral-103-full.webp",
+          "alt": "Un sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ entre flores. Ramo de novia de flores blancas y rosas claras con tallos sujetos con cinta.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "thumb": "assets/collections/floral-104-720.webp",
+          "full": "assets/collections/floral-104-full.webp",
+          "alt": "Un sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ entre flores. Ramo de novia de flores blancas y rosas claras con tallos sujetos con cinta.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-019",
+      "name": "Frescura en verde",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores claras y rosadas en caja verde con detalle de cadena.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-125-720.webp",
+          "full": "assets/collections/floral-125-full.webp",
+          "alt": "Frescura en verde. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores claras y rosadas en caja verde con detalle de cadena.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-020",
+      "name": "Rosas en negro y oro",
+      "description": "Rosas rojas con envoltura negra de bordes dorados y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-131-720.webp",
+          "full": "assets/collections/floral-131-full.webp",
+          "alt": "Rosas en negro y oro. Rosas rojas con envoltura negra de bordes dorados y lazo.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "thumb": "assets/collections/floral-132-720.webp",
+          "full": "assets/collections/floral-132-full.webp",
+          "alt": "Rosas en negro y oro. Rosas rojas con envoltura negra de bordes dorados y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-021",
+      "name": "Rosas en tonos suaves",
+      "description": "Caja de rosas rosadas, claras y lilas con lazo y follaje.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-134-720.webp",
+          "full": "assets/collections/floral-134-full.webp",
+          "alt": "Rosas en tonos suaves. Caja de rosas rosadas, claras y lilas con lazo y follaje.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-022",
+      "name": "Una sorpresa en rojo",
+      "description": "Rosas rojas en caja negra con complementos de regalo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-141-720.webp",
+          "full": "assets/collections/floral-141-full.webp",
+          "alt": "Una sorpresa en rojo. Rosas rojas en caja negra con complementos de regalo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-023",
+      "name": "Flores para su historia",
+      "description": "Ramo de flores claras y rosadas con follaje y envoltura blanca.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-146-720.webp",
+          "full": "assets/collections/floral-146-full.webp",
+          "alt": "Flores para su historia. Ramo de flores claras y rosadas con follaje y envoltura blanca.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-024",
+      "name": "Suavidad en rosa",
+      "description": "Rosas rosadas en envoltura de tonos suaves con lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-149-720.webp",
+          "full": "assets/collections/floral-149-full.webp",
+          "alt": "Suavidad en rosa. Rosas rosadas en envoltura de tonos suaves con lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-025",
+      "name": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n en una caja",
+      "description": "Caja rosa con flores rosadas, blancas y moradas y follaje.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-150-720.webp",
+          "full": "assets/collections/floral-150-full.webp",
+          "alt": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n en una caja. Caja rosa con flores rosadas, blancas y moradas y follaje.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "thumb": "assets/collections/floral-155-720.webp",
+          "full": "assets/collections/floral-155-full.webp",
+          "alt": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n en una caja. Caja rosa con flores rosadas, blancas y moradas y follaje.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-026",
+      "name": "Un gesto en rojo",
+      "description": "Rosas rojas en envoltura negra con detalles dorados.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-151-720.webp",
+          "full": "assets/collections/floral-151-full.webp",
+          "alt": "Un gesto en rojo. Rosas rojas en envoltura negra con detalles dorados.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-027",
+      "name": "Canasta de ternura",
+      "description": "Canasta con flores blancas, rosadas y lilas y follaje.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-153-720.webp",
+          "full": "assets/collections/floral-153-full.webp",
+          "alt": "Canasta de ternura. Canasta con flores blancas, rosadas y lilas y follaje.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-028",
+      "name": "Rosas para recordar",
+      "description": "Rosas rojas en florero de cristal con lazo rojo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-154-720.webp",
+          "full": "assets/collections/floral-154-full.webp",
+          "alt": "Rosas para recordar. Rosas rojas en florero de cristal con lazo rojo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-029",
+      "name": "Un corazón de rosas",
+      "description": "Composición de rosas rojas con forma de corazón en florero de cristal.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-159-720.webp",
+          "full": "assets/collections/floral-159-full.webp",
+          "alt": "Un corazón de rosas. Composición de rosas rojas con forma de corazón en florero de cristal.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-030",
+      "name": "Rojo especial",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas en caja negra con detalle dorado.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-156-720.webp",
+          "full": "assets/collections/floral-156-full.webp",
+          "alt": "Rojo especial. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas en caja negra con detalle dorado.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-031",
+      "name": "Una sonrisa floral",
+      "description": "Ramo de flores rosadas y amarillas con envoltura y lazo rosa.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-160-720.webp",
+          "full": "assets/collections/floral-160-full.webp",
+          "alt": "Una sonrisa floral. Ramo de flores rosadas y amarillas con envoltura y lazo rosa.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-032",
+      "name": "Flores en lila",
+      "description": "Ramo de rosas y flores en tonos lila y rosado con envoltura clara.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-161-720.webp",
+          "full": "assets/collections/floral-161-full.webp",
+          "alt": "Flores en lila. Ramo de rosas y flores en tonos lila y rosado con envoltura clara.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-033",
+      "name": "Un poco de sol",
+      "description": "Ramo de girasoles con flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura de papel.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-163-720.webp",
+          "full": "assets/collections/floral-163-full.webp",
+          "alt": "Un poco de sol. Ramo de girasoles con flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura de papel.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-034",
+      "name": "Un abrazo en rojo",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas con osito de peluche y detalles claros.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-164-720.webp",
+          "full": "assets/collections/floral-164-full.webp",
+          "alt": "Un abrazo en rojo. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas con osito de peluche y detalles claros.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-035",
+      "name": "Tulipanes con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o",
+      "description": "Ramo de tulipanes en tonos rosados y anaranjados con envoltura y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-165-720.webp",
+          "full": "assets/collections/floral-165-full.webp",
+          "alt": "Tulipanes con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o. Ramo de tulipanes en tonos rosados y anaranjados con envoltura y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-036",
+      "name": "Un detalle delicado",
+      "description": "Flores rosadas, blancas y moradas con envoltura clara y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-167-720.webp",
+          "full": "assets/collections/floral-167-full.webp",
+          "alt": "Un detalle delicado. Flores rosadas, blancas y moradas con envoltura clara y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-037",
+      "name": "Blanco natural",
+      "description": "Ramo de flores blancas y follaje con envoltura clara y cinta.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-169-720.webp",
+          "full": "assets/collections/floral-169-full.webp",
+          "alt": "Blanco natural. Ramo de flores blancas y follaje con envoltura clara y cinta.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-038",
+      "name": "Rosas en primavera",
+      "description": "Ramo de flores rosadas y lilas con envoltura rosa y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-170-720.webp",
+          "full": "assets/collections/floral-170-full.webp",
+          "alt": "Rosas en primavera. Ramo de flores rosadas y lilas con envoltura rosa y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-039",
+      "name": "Flores con ilusiÃ³n",
+      "description": "Flores rosadas y claras con follaje en envoltura rosa y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-172-720.webp",
+          "full": "assets/collections/floral-172-full.webp",
+          "alt": "Flores con ilusiÃ³n. Flores rosadas y claras con follaje en envoltura rosa y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-040",
+      "name": "AlegrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a en flores",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n multicolor con rosas rosadas y flores moradas en envoltura lila.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-171-720.webp",
+          "full": "assets/collections/floral-171-full.webp",
+          "alt": "AlegrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a en flores. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n multicolor con rosas rosadas y flores moradas en envoltura lila.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-041",
+      "name": "Un lazo de flores",
+      "description": "Ramo de flores rosadas, amarillas y moradas en envoltura lila.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-174-720.webp",
+          "full": "assets/collections/floral-174-full.webp",
+          "alt": "Un lazo de flores. Ramo de flores rosadas, amarillas y moradas en envoltura lila.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-042",
+      "name": "Rosas de encanto",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n redonda de rosas rosadas con follaje y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-176-720.webp",
+          "full": "assets/collections/floral-176-full.webp",
+          "alt": "Rosas de encanto. ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n redonda de rosas rosadas con follaje y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "id": "FL-043",
+      "name": "Para alguien especial",
+      "description": "Ramo de flores en tonos rosa y amarillo con envoltura rosa y lazo.",
+      "images": [
+        {
+          "thumb": "assets/collections/floral-190-720.webp",
+          "full": "assets/collections/floral-190-full.webp",
+          "alt": "Para alguien especial. Ramo de flores en tonos rosa y amarillo con envoltura rosa y lazo.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "EV-001",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-001-720.webp",
+        "full": "assets/collections/event-001-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-002",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-002-720.webp",
+        "full": "assets/collections/event-002-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-003",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-003-720.webp",
+        "full": "assets/collections/event-003-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-004",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-004-720.webp",
+        "full": "assets/collections/event-004-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-005",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-005-720.webp",
+        "full": "assets/collections/event-005-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-006",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-006-720.webp",
+        "full": "assets/collections/event-006-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-007",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-007-720.webp",
+        "full": "assets/collections/event-007-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-008",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-008-720.webp",
+        "full": "assets/collections/event-008-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-009",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-009-720.webp",
+        "full": "assets/collections/event-009-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-010",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-010-720.webp",
+        "full": "assets/collections/event-010-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-011",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-011-720.webp",
+        "full": "assets/collections/event-011-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-012",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-012-720.webp",
+        "full": "assets/collections/event-012-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-014",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-014-720.webp",
+        "full": "assets/collections/event-014-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-015",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-015-720.webp",
+        "full": "assets/collections/event-015-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-016",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-016-720.webp",
+        "full": "assets/collections/event-016-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-017",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-017-720.webp",
+        "full": "assets/collections/event-017-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-022",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-022-720.webp",
+        "full": "assets/collections/event-022-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-023",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-023-720.webp",
+        "full": "assets/collections/event-023-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-025",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-025-720.webp",
+        "full": "assets/collections/event-025-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-026",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-026-720.webp",
+        "full": "assets/collections/event-026-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-028",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-028-720.webp",
+        "full": "assets/collections/event-028-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-029",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-029-720.webp",
+        "full": "assets/collections/event-029-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-030",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-030-720.webp",
+        "full": "assets/collections/event-030-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1086,
+        "height": 1448
+      }
+    },
+    {
+      "id": "EV-031",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-031-720.webp",
+        "full": "assets/collections/event-031-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-032",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-032-720.webp",
+        "full": "assets/collections/event-032-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-033",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-033-720.webp",
+        "full": "assets/collections/event-033-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-034",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-034-720.webp",
+        "full": "assets/collections/event-034-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-035",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-035-720.webp",
+        "full": "assets/collections/event-035-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-036",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-036-720.webp",
+        "full": "assets/collections/event-036-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-037",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-037-720.webp",
+        "full": "assets/collections/event-037-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-038",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-038-720.webp",
+        "full": "assets/collections/event-038-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-039",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-039-720.webp",
+        "full": "assets/collections/event-039-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-040",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-040-720.webp",
+        "full": "assets/collections/event-040-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-041",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-041-720.webp",
+        "full": "assets/collections/event-041-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-042",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-042-720.webp",
+        "full": "assets/collections/event-042-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1066
+      }
+    },
+    {
+      "id": "EV-043",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-043-720.webp",
+        "full": "assets/collections/event-043-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-044",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-044-720.webp",
+        "full": "assets/collections/event-044-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-045",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-045-720.webp",
+        "full": "assets/collections/event-045-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-046",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-046-720.webp",
+        "full": "assets/collections/event-046-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-047",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-047-720.webp",
+        "full": "assets/collections/event-047-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-048",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-048-720.webp",
+        "full": "assets/collections/event-048-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-049",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-049-720.webp",
+        "full": "assets/collections/event-049-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-050",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-050-720.webp",
+        "full": "assets/collections/event-050-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-051",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-051-720.webp",
+        "full": "assets/collections/event-051-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-052",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-052-720.webp",
+        "full": "assets/collections/event-052-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-053",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-053-720.webp",
+        "full": "assets/collections/event-053-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-054",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-054-720.webp",
+        "full": "assets/collections/event-054-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-055",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-055-720.webp",
+        "full": "assets/collections/event-055-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-056",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-056-720.webp",
+        "full": "assets/collections/event-056-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-057",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-057-720.webp",
+        "full": "assets/collections/event-057-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1067
+      }
+    },
+    {
+      "id": "EV-058",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-058-720.webp",
+        "full": "assets/collections/event-058-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-059",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-059-720.webp",
+        "full": "assets/collections/event-059-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-060",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-060-720.webp",
+        "full": "assets/collections/event-060-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-061",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-061-720.webp",
+        "full": "assets/collections/event-061-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-062",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-062-720.webp",
+        "full": "assets/collections/event-062-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1535,
+        "height": 1024
+      }
+    },
+    {
+      "id": "EV-063",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-063-720.webp",
+        "full": "assets/collections/event-063-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-067",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-067-720.webp",
+        "full": "assets/collections/event-067-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-068",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-068-720.webp",
+        "full": "assets/collections/event-068-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-073",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-073-720.webp",
+        "full": "assets/collections/event-073-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-075",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-075-720.webp",
+        "full": "assets/collections/event-075-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-076",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-076-720.webp",
+        "full": "assets/collections/event-076-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-077",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-077-720.webp",
+        "full": "assets/collections/event-077-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-078",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-078-720.webp",
+        "full": "assets/collections/event-078-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-080",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-080-720.webp",
+        "full": "assets/collections/event-080-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-081",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-081-720.webp",
+        "full": "assets/collections/event-081-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-082",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-082-720.webp",
+        "full": "assets/collections/event-082-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-083",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-083-720.webp",
+        "full": "assets/collections/event-083-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-084",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-084-720.webp",
+        "full": "assets/collections/event-084-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-085",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-085-720.webp",
+        "full": "assets/collections/event-085-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-086",
+      "name": "Un momento para recordar",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-086-720.webp",
+        "full": "assets/collections/event-086-full.webp",
+        "alt": "Un momento para recordar: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-087",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-087-720.webp",
+        "full": "assets/collections/event-087-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-089",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-089-720.webp",
+        "full": "assets/collections/event-089-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-090",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-090-720.webp",
+        "full": "assets/collections/event-090-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-091",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-091-720.webp",
+        "full": "assets/collections/event-091-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-093",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-093-720.webp",
+        "full": "assets/collections/event-093-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-094",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-094-720.webp",
+        "full": "assets/collections/event-094-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1323,
+        "height": 882
+      }
+    },
+    {
+      "id": "EV-096",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-096-720.webp",
+        "full": "assets/collections/event-096-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-097",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-097-720.webp",
+        "full": "assets/collections/event-097-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-098",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-098-720.webp",
+        "full": "assets/collections/event-098-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-099",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-099-720.webp",
+        "full": "assets/collections/event-099-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-100",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-100-720.webp",
+        "full": "assets/collections/event-100-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-101",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-101-720.webp",
+        "full": "assets/collections/event-101-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-102",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-102-720.webp",
+        "full": "assets/collections/event-102-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-105",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-105-720.webp",
+        "full": "assets/collections/event-105-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-106",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-106-720.webp",
+        "full": "assets/collections/event-106-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-107",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-107-720.webp",
+        "full": "assets/collections/event-107-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-108",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-108-720.webp",
+        "full": "assets/collections/event-108-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-109",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-109-720.webp",
+        "full": "assets/collections/event-109-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-110",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-110-720.webp",
+        "full": "assets/collections/event-110-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-111",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-111-720.webp",
+        "full": "assets/collections/event-111-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-112",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-112-720.webp",
+        "full": "assets/collections/event-112-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-113",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-113-720.webp",
+        "full": "assets/collections/event-113-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1086,
+        "height": 1448
+      }
+    },
+    {
+      "id": "EV-114",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-114-720.webp",
+        "full": "assets/collections/event-114-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-115",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-115-720.webp",
+        "full": "assets/collections/event-115-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-116",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-116-720.webp",
+        "full": "assets/collections/event-116-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-117",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-117-720.webp",
+        "full": "assets/collections/event-117-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-118",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-118-720.webp",
+        "full": "assets/collections/event-118-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-119",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-119-720.webp",
+        "full": "assets/collections/event-119-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-120",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-120-720.webp",
+        "full": "assets/collections/event-120-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-121",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-121-720.webp",
+        "full": "assets/collections/event-121-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-122",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-122-720.webp",
+        "full": "assets/collections/event-122-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-123",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-123-720.webp",
+        "full": "assets/collections/event-123-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-124",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-124-720.webp",
+        "full": "assets/collections/event-124-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-126",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-126-720.webp",
+        "full": "assets/collections/event-126-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1066
+      }
+    },
+    {
+      "id": "EV-127",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-127-720.webp",
+        "full": "assets/collections/event-127-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-128",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-128-720.webp",
+        "full": "assets/collections/event-128-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-129",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-129-720.webp",
+        "full": "assets/collections/event-129-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-130",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-130-720.webp",
+        "full": "assets/collections/event-130-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-133",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-133-720.webp",
+        "full": "assets/collections/event-133-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1066,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-135",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-135-720.webp",
+        "full": "assets/collections/event-135-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-136",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-136-720.webp",
+        "full": "assets/collections/event-136-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-137",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-137-720.webp",
+        "full": "assets/collections/event-137-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-138",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-138-720.webp",
+        "full": "assets/collections/event-138-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-139",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-139-720.webp",
+        "full": "assets/collections/event-139-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-140",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-140-720.webp",
+        "full": "assets/collections/event-140-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-142",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-142-720.webp",
+        "full": "assets/collections/event-142-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-143",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-143-720.webp",
+        "full": "assets/collections/event-143-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-144",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-144-720.webp",
+        "full": "assets/collections/event-144-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-145",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-145-720.webp",
+        "full": "assets/collections/event-145-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-147",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-147-720.webp",
+        "full": "assets/collections/event-147-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-148",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-148-720.webp",
+        "full": "assets/collections/event-148-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-152",
+      "name": "Una celebración llena de color",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-152-720.webp",
+        "full": "assets/collections/event-152-full.webp",
+        "alt": "Una celebración llena de color: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-157",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-157-720.webp",
+        "full": "assets/collections/event-157-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-158",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-158-720.webp",
+        "full": "assets/collections/event-158-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-162",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-162-720.webp",
+        "full": "assets/collections/event-162-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-166",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-166-720.webp",
+        "full": "assets/collections/event-166-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-168",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-168-720.webp",
+        "full": "assets/collections/event-168-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-173",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-173-720.webp",
+        "full": "assets/collections/event-173-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-175",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-175-720.webp",
+        "full": "assets/collections/event-175-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-177",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-177-720.webp",
+        "full": "assets/collections/event-177-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "id": "EV-179",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-179-720.webp",
+        "full": "assets/collections/event-179-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-180",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-180-720.webp",
+        "full": "assets/collections/event-180-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-181",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-181-720.webp",
+        "full": "assets/collections/event-181-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-182",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-182-720.webp",
+        "full": "assets/collections/event-182-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-183",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-183-720.webp",
+        "full": "assets/collections/event-183-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-184",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-184-720.webp",
+        "full": "assets/collections/event-184-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 564,
+        "height": 705
+      }
+    },
+    {
+      "id": "EV-185",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-185-720.webp",
+        "full": "assets/collections/event-185-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-186",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-186-720.webp",
+        "full": "assets/collections/event-186-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-187",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-187-720.webp",
+        "full": "assets/collections/event-187-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-188",
+      "name": "El comienzo de una historia",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-188-720.webp",
+        "full": "assets/collections/event-188-full.webp",
+        "alt": "El comienzo de una historia: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-189",
+      "name": "Detalles para recibir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-189-720.webp",
+        "full": "assets/collections/event-189-full.webp",
+        "alt": "Detalles para recibir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-191",
+      "name": "Flores que enmarcan un momento",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-191-720.webp",
+        "full": "assets/collections/event-191-full.webp",
+        "alt": "Flores que enmarcan un momento: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-192",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-192-720.webp",
+        "full": "assets/collections/event-192-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "EV-193",
+      "name": "Una mesa para compartir",
+      "description": "Flores y detalles de una celebración Mariny. Abre la fotografía para descubrir el montaje completo.",
+      "image": {
+        "thumb": "assets/collections/event-193-720.webp",
+        "full": "assets/collections/event-193-full.webp",
+        "alt": "Una mesa para compartir: fotografía de una decoraciÃ³n de Mariny.",
+        "width": 1200,
+        "height": 1600
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": "VI-001",
+      "source": 194,
+      "name": "Entre flores y detalles",
+      "src": "assets/collections/videos/clip-01.mp4",
+      "poster": "assets/collections/videos/clip-01.jpg",
+      "duration": 29.166667,
+      "width": 576,
+      "height": 1024,
+      "originalBytes": 6205121,
+      "bytes": 4646388,
+      "rotation": []
+    },
+    {
+      "id": "VI-002",
+      "source": 195,
+      "name": "Una mesa para compartir",
+      "src": "assets/collections/videos/clip-02.mp4",
+      "poster": "assets/collections/videos/clip-02.jpg",
+      "duration": 6.186667,
+      "width": 464,
+      "height": 832,
+      "originalBytes": 1352432,
+      "bytes": 860581,
+      "rotation": []
+    },
+    {
+      "id": "VI-003",
+      "source": 196,
+      "name": "Flores que enmarcan",
+      "src": "assets/collections/videos/clip-03.mp4",
+      "poster": "assets/collections/videos/clip-03.jpg",
+      "duration": 14.2,
+      "width": 576,
+      "height": 1024,
+      "originalBytes": 3065482,
+      "bytes": 1784822,
+      "rotation": []
+    },
+    {
+      "id": "VI-004",
+      "source": 197,
+      "name": "Pequeños detalles de mesa",
+      "src": "assets/collections/videos/clip-04.mp4",
+      "poster": "assets/collections/videos/clip-04.jpg",
+      "duration": 0.366667,
+      "width": 640,
+      "height": 368,
+      "originalBytes": 28362,
+      "bytes": 28745,
+      "rotation": [
+        -90
+      ]
+    },
+    {
+      "id": "VI-005",
+      "source": 198,
+      "name": "Un jardín de flores",
+      "src": "assets/collections/videos/clip-05.mp4",
+      "poster": "assets/collections/videos/clip-05.jpg",
+      "duration": 36.7,
+      "width": 576,
+      "height": 1024,
+      "originalBytes": 7762591,
+      "bytes": 5574085,
+      "rotation": []
+    },
+    {
+      "id": "VI-006",
+      "source": 199,
+      "name": "Una mesa para recordar",
+      "src": "assets/collections/videos/clip-06.mp4",
+      "poster": "assets/collections/videos/clip-06.jpg",
+      "duration": 34.453333,
+      "width": 576,
+      "height": 1024,
+      "originalBytes": 7354483,
+      "bytes": 4278649,
+      "rotation": []
+    }
+  ]
+}

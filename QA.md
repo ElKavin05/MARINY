@@ -42,3 +42,13 @@ QA local: 320/390/768/1087/1440 px sin desbordamiento ni imágenes con src rotas
 
 
 25/11/2026 · Retoque fotográfico sin regenerar aprobado por Kevin. Doce fotos únicas debajo de portada: cinco tarjetas, nueve entradas de galería y fotos de La esencia comparten las versiones en dist/assets/retouched/. Corrección tonal y enfoque moderados desde los JPEG originales, sin recorte, cambio de geometría, sustitución de objetos ni IA generativa. Resolución nativa conservada; WebP calidad91; total2523730 bytes, carga diferida existente. Originales, recursos anteriores y portada intactos (SHA-256 y HTML de hero comprobados). Recetas y hashes en assets/photo-retouch.json; script reproducible scripts/retouch-photos.cjs con Sharp (SHARP_MODULE permite localizar instalación). La prueba generativa se descartó y no está en los activos publicados.
+
+
+## Colecciones · 25/11/2026
+
+-199fuentes contabilizadas;43productos/47fotos florales,144eventos y6videos;382WebP decodificados y tamaños válidos; portada idéntica por hash y HTML.
+- Revisión visual de193fuentes,47recortes y6pósteres. Corrección manual de manos,mesa,soporte y espejo sin regenerar píxeles.
+- Navegador local320/390/768/1087/1440:sin overflow,3tarjetas iniciales y9más por clic,ninguna foto oculta ni MP4 descargados anticipadamente. Todos los enlaces de consulta contienen código/nombre/referencia y número correcto,sin enviar mensajes.
+- Dos visores independientes,Tab/Shift-Tab,flechas,Escape y foco de retorno. Enlaces directos a producto fuera del primer lote. Galería y formulario anteriores conservados.
+- Los6videos se reproducen,dimensiones efectivas verticales,solo uno activo,pausa fuera de vista,carrusel manual,movimiento reducido. Recuperación al fallar collections.json mediante Reintentar.
+- scripts/verify-collections.cjs conserva comprobaciones de contenido y activos. Pruebas navegador y capturas:tmp/collections/qa.cjs,failure-qa.cjs,ui-*.png,events-*.png,videos-*.png. El servidor de prueba admite rangos HTTP para videos.

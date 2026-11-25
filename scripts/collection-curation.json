@@ -1,0 +1,322 @@
+{
+  "floralGroups": [
+    {
+      "sources": [
+        13
+      ],
+      "name": "Rosas durazno",
+      "description": "Rosas en tonos durazno, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura con lazo."
+    },
+    {
+      "sources": [
+        18
+      ],
+      "name": "Rosas en tonos cÃƒÆ’Ã‚Â¡lidos",
+      "description": "Ramo de rosas en tonos durazno y amarillo con envoltura clara y lazo."
+    },
+    {
+      "sources": [
+        19
+      ],
+      "name": "Un abrazo en rosa",
+      "description": "Ramo de rosas y flores en tonos suaves con envoltura rosa y lazo."
+    },
+    {
+      "sources": [
+        20
+      ],
+      "name": "Flores para sorprender",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas y flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento en tonos suaves."
+    },
+    {
+      "sources": [
+        21
+      ],
+      "name": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n de color",
+      "description": "Canasta de flores amarillas, rosadas, blancas y moradas con lazo lila."
+    },
+    {
+      "sources": [
+        24
+      ],
+      "name": "Flores en fucsia",
+      "description": "Ramo de rosas y flores de acompaÃƒÆ’Ã‚Â±amiento con envoltura fucsia y lazo."
+    },
+    {
+      "sources": [
+        92
+      ],
+      "name": "Flores y un abrazo",
+      "description": "Ramo en envoltura rosa con flores de colores y un osito de peluche."
+    },
+    {
+      "sources": [
+        27
+      ],
+      "name": "Un detalle para mamÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡",
+      "description": "Caja floral con flores rosadas y amarillas, lazos y espejo con dedicatoria."
+    },
+    {
+      "sources": [
+        64
+      ],
+      "name": "Encanto lila",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores blancas, lilas y azules en recipiente morado."
+    },
+    {
+      "sources": [
+        65
+      ],
+      "name": "Un dulce detalle",
+      "description": "Ramo en tonos rosa y vino con envoltura satinada y complementos de regalo."
+    },
+    {
+      "sources": [
+        66,
+        69
+      ],
+      "name": "Elegancia en blanco",
+      "description": "Ramo de rosas claras con envoltura negra, transparente y lazo."
+    },
+    {
+      "sources": [
+        70
+      ],
+      "name": "Colores que acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±an",
+      "description": "Ramo multicolor con flores moradas, rosadas y amarillas."
+    },
+    {
+      "sources": [
+        71
+      ],
+      "name": "Entre rosas y flores",
+      "description": "Ramo de flores rosadas y moradas con envoltura clara y lazo."
+    },
+    {
+      "sources": [
+        72
+      ],
+      "name": "Delicadeza floral",
+      "description": "Ramo en tonos rosados y morados con flores blancas de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento."
+    },
+    {
+      "sources": [
+        74
+      ],
+      "name": "Rosas con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o",
+      "description": "Rosas en tonos rosa y vino en envoltura con lazo."
+    },
+    {
+      "sources": [
+        79
+      ],
+      "name": "Un jardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n para ti",
+      "description": "Ramo de flores blancas, rosadas y moradas con follaje y envoltura rosa."
+    },
+    {
+      "sources": [
+        95
+      ],
+      "name": "Rojo que enamora",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas, flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y follaje en base blanca."
+    },
+    {
+      "sources": [
+        103,
+        104
+      ],
+      "name": "Un sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­ entre flores",
+      "description": "Ramo de novia de flores blancas y rosas claras con tallos sujetos con cinta."
+    },
+    {
+      "sources": [
+        125
+      ],
+      "name": "Frescura en verde",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de flores claras y rosadas en caja verde con detalle de cadena."
+    },
+    {
+      "sources": [
+        131,
+        132
+      ],
+      "name": "Rosas en negro y oro",
+      "description": "Rosas rojas con envoltura negra de bordes dorados y lazo."
+    },
+    {
+      "sources": [
+        134
+      ],
+      "name": "Rosas en tonos suaves",
+      "description": "Caja de rosas rosadas, claras y lilas con lazo y follaje."
+    },
+    {
+      "sources": [
+        141
+      ],
+      "name": "Una sorpresa en rojo",
+      "description": "Rosas rojas en caja negra con complementos de regalo."
+    },
+    {
+      "sources": [
+        146
+      ],
+      "name": "Flores para su historia",
+      "description": "Ramo de flores claras y rosadas con follaje y envoltura blanca."
+    },
+    {
+      "sources": [
+        149
+      ],
+      "name": "Suavidad en rosa",
+      "description": "Rosas rosadas en envoltura de tonos suaves con lazo."
+    },
+    {
+      "sources": [
+        150,
+        155
+      ],
+      "name": "JardÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n en una caja",
+      "description": "Caja rosa con flores rosadas, blancas y moradas y follaje."
+    },
+    {
+      "sources": [
+        151
+      ],
+      "name": "Un gesto en rojo",
+      "description": "Rosas rojas en envoltura negra con detalles dorados."
+    },
+    {
+      "sources": [
+        153
+      ],
+      "name": "Canasta de ternura",
+      "description": "Canasta con flores blancas, rosadas y lilas y follaje."
+    },
+    {
+      "sources": [
+        154
+      ],
+      "name": "Rosas para recordar",
+      "description": "Rosas rojas en florero de cristal con lazo rojo."
+    },
+    {
+      "sources": [
+        159
+      ],
+      "name": "Un corazón de rosas",
+      "description": "Composición de rosas rojas con forma de corazón en florero de cristal."
+    },
+    {
+      "sources": [
+        156
+      ],
+      "name": "Rojo especial",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas en caja negra con detalle dorado."
+    },
+    {
+      "sources": [
+        160
+      ],
+      "name": "Una sonrisa floral",
+      "description": "Ramo de flores rosadas y amarillas con envoltura y lazo rosa."
+    },
+    {
+      "sources": [
+        161
+      ],
+      "name": "Flores en lila",
+      "description": "Ramo de rosas y flores en tonos lila y rosado con envoltura clara."
+    },
+    {
+      "sources": [
+        163
+      ],
+      "name": "Un poco de sol",
+      "description": "Ramo de girasoles con flores de acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±amiento y envoltura de papel."
+    },
+    {
+      "sources": [
+        164
+      ],
+      "name": "Un abrazo en rojo",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n de rosas rojas con osito de peluche y detalles claros."
+    },
+    {
+      "sources": [
+        165
+      ],
+      "name": "Tulipanes con cariÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o",
+      "description": "Ramo de tulipanes en tonos rosados y anaranjados con envoltura y lazo."
+    },
+    {
+      "sources": [
+        167
+      ],
+      "name": "Un detalle delicado",
+      "description": "Flores rosadas, blancas y moradas con envoltura clara y lazo."
+    },
+    {
+      "sources": [
+        169
+      ],
+      "name": "Blanco natural",
+      "description": "Ramo de flores blancas y follaje con envoltura clara y cinta."
+    },
+    {
+      "sources": [
+        170
+      ],
+      "name": "Rosas en primavera",
+      "description": "Ramo de flores rosadas y lilas con envoltura rosa y lazo."
+    },
+    {
+      "sources": [
+        172
+      ],
+      "name": "Flores con ilusiÃ³n",
+      "description": "Flores rosadas y claras con follaje en envoltura rosa y lazo."
+    },
+    {
+      "sources": [
+        171
+      ],
+      "name": "AlegrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a en flores",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n multicolor con rosas rosadas y flores moradas en envoltura lila."
+    },
+    {
+      "sources": [
+        174
+      ],
+      "name": "Un lazo de flores",
+      "description": "Ramo de flores rosadas, amarillas y moradas en envoltura lila."
+    },
+    {
+      "sources": [
+        176
+      ],
+      "name": "Rosas de encanto",
+      "description": "ComposiciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n redonda de rosas rosadas con follaje y lazo."
+    },
+    {
+      "sources": [
+        190
+      ],
+      "name": "Para alguien especial",
+      "description": "Ramo de flores en tonos rosa y amarillo con envoltura rosa y lazo."
+    }
+  ],
+  "excluded": [
+    {
+      "source": 178,
+      "reason": "FotografÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a personal de un bebÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© sin producto floral ni montaje de evento; fuera del alcance de las colecciones."
+    }
+  ],
+  "duplicates": [
+    {
+      "source": 88,
+      "sameAs": 63,
+      "reason": "Archivo exactamente idÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ntico por SHA-256."
+    }
+  ]
+}

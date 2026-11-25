@@ -1,0 +1,859 @@
+{
+  "date": "2026-11-25",
+  "folder": "https://drive.google.com/drive/folders/1HqHW3ZqqnVKtHqY4IfXcXAYn--37mC8N",
+  "counts": {
+    "sources": 199,
+    "floralProducts": 43,
+    "floralPhotographs": 47,
+    "eventPhotographs": 144,
+    "videos": 6,
+    "excluded": 2
+  },
+  "files": [
+    {
+      "source": 1,
+      "category": "events"
+    },
+    {
+      "source": 2,
+      "category": "events"
+    },
+    {
+      "source": 3,
+      "category": "events"
+    },
+    {
+      "source": 4,
+      "category": "events"
+    },
+    {
+      "source": 5,
+      "category": "events"
+    },
+    {
+      "source": 6,
+      "category": "events"
+    },
+    {
+      "source": 7,
+      "category": "events"
+    },
+    {
+      "source": 8,
+      "category": "events"
+    },
+    {
+      "source": 9,
+      "category": "events"
+    },
+    {
+      "source": 10,
+      "category": "events"
+    },
+    {
+      "source": 11,
+      "category": "events"
+    },
+    {
+      "source": 12,
+      "category": "events"
+    },
+    {
+      "source": 13,
+      "category": "floral",
+      "product": "FL-001"
+    },
+    {
+      "source": 14,
+      "category": "events"
+    },
+    {
+      "source": 15,
+      "category": "events"
+    },
+    {
+      "source": 16,
+      "category": "events"
+    },
+    {
+      "source": 17,
+      "category": "events"
+    },
+    {
+      "source": 18,
+      "category": "floral",
+      "product": "FL-002"
+    },
+    {
+      "source": 19,
+      "category": "floral",
+      "product": "FL-003"
+    },
+    {
+      "source": 20,
+      "category": "floral",
+      "product": "FL-004"
+    },
+    {
+      "source": 21,
+      "category": "floral",
+      "product": "FL-005"
+    },
+    {
+      "source": 22,
+      "category": "events"
+    },
+    {
+      "source": 23,
+      "category": "events"
+    },
+    {
+      "source": 24,
+      "category": "floral",
+      "product": "FL-006"
+    },
+    {
+      "source": 25,
+      "category": "events"
+    },
+    {
+      "source": 26,
+      "category": "events"
+    },
+    {
+      "source": 27,
+      "category": "floral",
+      "product": "FL-008"
+    },
+    {
+      "source": 28,
+      "category": "events"
+    },
+    {
+      "source": 29,
+      "category": "events"
+    },
+    {
+      "source": 30,
+      "category": "events"
+    },
+    {
+      "source": 31,
+      "category": "events"
+    },
+    {
+      "source": 32,
+      "category": "events"
+    },
+    {
+      "source": 33,
+      "category": "events"
+    },
+    {
+      "source": 34,
+      "category": "events"
+    },
+    {
+      "source": 35,
+      "category": "events"
+    },
+    {
+      "source": 36,
+      "category": "events"
+    },
+    {
+      "source": 37,
+      "category": "events"
+    },
+    {
+      "source": 38,
+      "category": "events"
+    },
+    {
+      "source": 39,
+      "category": "events"
+    },
+    {
+      "source": 40,
+      "category": "events"
+    },
+    {
+      "source": 41,
+      "category": "events"
+    },
+    {
+      "source": 42,
+      "category": "events"
+    },
+    {
+      "source": 43,
+      "category": "events"
+    },
+    {
+      "source": 44,
+      "category": "events"
+    },
+    {
+      "source": 45,
+      "category": "events"
+    },
+    {
+      "source": 46,
+      "category": "events"
+    },
+    {
+      "source": 47,
+      "category": "events"
+    },
+    {
+      "source": 48,
+      "category": "events"
+    },
+    {
+      "source": 49,
+      "category": "events"
+    },
+    {
+      "source": 50,
+      "category": "events"
+    },
+    {
+      "source": 51,
+      "category": "events"
+    },
+    {
+      "source": 52,
+      "category": "events"
+    },
+    {
+      "source": 53,
+      "category": "events"
+    },
+    {
+      "source": 54,
+      "category": "events"
+    },
+    {
+      "source": 55,
+      "category": "events"
+    },
+    {
+      "source": 56,
+      "category": "events"
+    },
+    {
+      "source": 57,
+      "category": "events"
+    },
+    {
+      "source": 58,
+      "category": "events"
+    },
+    {
+      "source": 59,
+      "category": "events"
+    },
+    {
+      "source": 60,
+      "category": "events"
+    },
+    {
+      "source": 61,
+      "category": "events"
+    },
+    {
+      "source": 62,
+      "category": "events"
+    },
+    {
+      "source": 63,
+      "category": "events"
+    },
+    {
+      "source": 64,
+      "category": "floral",
+      "product": "FL-009"
+    },
+    {
+      "source": 65,
+      "category": "floral",
+      "product": "FL-010"
+    },
+    {
+      "source": 66,
+      "category": "floral",
+      "product": "FL-011"
+    },
+    {
+      "source": 67,
+      "category": "events"
+    },
+    {
+      "source": 68,
+      "category": "events"
+    },
+    {
+      "source": 69,
+      "category": "floral",
+      "product": "FL-011"
+    },
+    {
+      "source": 70,
+      "category": "floral",
+      "product": "FL-012"
+    },
+    {
+      "source": 71,
+      "category": "floral",
+      "product": "FL-013"
+    },
+    {
+      "source": 72,
+      "category": "floral",
+      "product": "FL-014"
+    },
+    {
+      "source": 73,
+      "category": "events"
+    },
+    {
+      "source": 74,
+      "category": "floral",
+      "product": "FL-015"
+    },
+    {
+      "source": 75,
+      "category": "events"
+    },
+    {
+      "source": 76,
+      "category": "events"
+    },
+    {
+      "source": 77,
+      "category": "events"
+    },
+    {
+      "source": 78,
+      "category": "events"
+    },
+    {
+      "source": 79,
+      "category": "floral",
+      "product": "FL-016"
+    },
+    {
+      "source": 80,
+      "category": "events"
+    },
+    {
+      "source": 81,
+      "category": "events"
+    },
+    {
+      "source": 82,
+      "category": "events"
+    },
+    {
+      "source": 83,
+      "category": "events"
+    },
+    {
+      "source": 84,
+      "category": "events"
+    },
+    {
+      "source": 85,
+      "category": "events"
+    },
+    {
+      "source": 86,
+      "category": "events"
+    },
+    {
+      "source": 87,
+      "category": "events"
+    },
+    {
+      "source": 88,
+      "category": "excluded",
+      "reason": "Duplicate of 63"
+    },
+    {
+      "source": 89,
+      "category": "events"
+    },
+    {
+      "source": 90,
+      "category": "events"
+    },
+    {
+      "source": 91,
+      "category": "events"
+    },
+    {
+      "source": 92,
+      "category": "floral",
+      "product": "FL-007"
+    },
+    {
+      "source": 93,
+      "category": "events"
+    },
+    {
+      "source": 94,
+      "category": "events"
+    },
+    {
+      "source": 95,
+      "category": "floral",
+      "product": "FL-017"
+    },
+    {
+      "source": 96,
+      "category": "events"
+    },
+    {
+      "source": 97,
+      "category": "events"
+    },
+    {
+      "source": 98,
+      "category": "events"
+    },
+    {
+      "source": 99,
+      "category": "events"
+    },
+    {
+      "source": 100,
+      "category": "events"
+    },
+    {
+      "source": 101,
+      "category": "events"
+    },
+    {
+      "source": 102,
+      "category": "events"
+    },
+    {
+      "source": 103,
+      "category": "floral",
+      "product": "FL-018"
+    },
+    {
+      "source": 104,
+      "category": "floral",
+      "product": "FL-018"
+    },
+    {
+      "source": 105,
+      "category": "events"
+    },
+    {
+      "source": 106,
+      "category": "events"
+    },
+    {
+      "source": 107,
+      "category": "events"
+    },
+    {
+      "source": 108,
+      "category": "events"
+    },
+    {
+      "source": 109,
+      "category": "events"
+    },
+    {
+      "source": 110,
+      "category": "events"
+    },
+    {
+      "source": 111,
+      "category": "events"
+    },
+    {
+      "source": 112,
+      "category": "events"
+    },
+    {
+      "source": 113,
+      "category": "events"
+    },
+    {
+      "source": 114,
+      "category": "events"
+    },
+    {
+      "source": 115,
+      "category": "events"
+    },
+    {
+      "source": 116,
+      "category": "events"
+    },
+    {
+      "source": 117,
+      "category": "events"
+    },
+    {
+      "source": 118,
+      "category": "events"
+    },
+    {
+      "source": 119,
+      "category": "events"
+    },
+    {
+      "source": 120,
+      "category": "events"
+    },
+    {
+      "source": 121,
+      "category": "events"
+    },
+    {
+      "source": 122,
+      "category": "events"
+    },
+    {
+      "source": 123,
+      "category": "events"
+    },
+    {
+      "source": 124,
+      "category": "events"
+    },
+    {
+      "source": 125,
+      "category": "floral",
+      "product": "FL-019"
+    },
+    {
+      "source": 126,
+      "category": "events"
+    },
+    {
+      "source": 127,
+      "category": "events"
+    },
+    {
+      "source": 128,
+      "category": "events"
+    },
+    {
+      "source": 129,
+      "category": "events"
+    },
+    {
+      "source": 130,
+      "category": "events"
+    },
+    {
+      "source": 131,
+      "category": "floral",
+      "product": "FL-020"
+    },
+    {
+      "source": 132,
+      "category": "floral",
+      "product": "FL-020"
+    },
+    {
+      "source": 133,
+      "category": "events"
+    },
+    {
+      "source": 134,
+      "category": "floral",
+      "product": "FL-021"
+    },
+    {
+      "source": 135,
+      "category": "events"
+    },
+    {
+      "source": 136,
+      "category": "events"
+    },
+    {
+      "source": 137,
+      "category": "events"
+    },
+    {
+      "source": 138,
+      "category": "events"
+    },
+    {
+      "source": 139,
+      "category": "events"
+    },
+    {
+      "source": 140,
+      "category": "events"
+    },
+    {
+      "source": 141,
+      "category": "floral",
+      "product": "FL-022"
+    },
+    {
+      "source": 142,
+      "category": "events"
+    },
+    {
+      "source": 143,
+      "category": "events"
+    },
+    {
+      "source": 144,
+      "category": "events"
+    },
+    {
+      "source": 145,
+      "category": "events"
+    },
+    {
+      "source": 146,
+      "category": "floral",
+      "product": "FL-023"
+    },
+    {
+      "source": 147,
+      "category": "events"
+    },
+    {
+      "source": 148,
+      "category": "events"
+    },
+    {
+      "source": 149,
+      "category": "floral",
+      "product": "FL-024"
+    },
+    {
+      "source": 150,
+      "category": "floral",
+      "product": "FL-025"
+    },
+    {
+      "source": 151,
+      "category": "floral",
+      "product": "FL-026"
+    },
+    {
+      "source": 152,
+      "category": "events"
+    },
+    {
+      "source": 153,
+      "category": "floral",
+      "product": "FL-027"
+    },
+    {
+      "source": 154,
+      "category": "floral",
+      "product": "FL-028"
+    },
+    {
+      "source": 155,
+      "category": "floral",
+      "product": "FL-025"
+    },
+    {
+      "source": 156,
+      "category": "floral",
+      "product": "FL-030"
+    },
+    {
+      "source": 157,
+      "category": "events"
+    },
+    {
+      "source": 158,
+      "category": "events"
+    },
+    {
+      "source": 159,
+      "category": "floral",
+      "product": "FL-029"
+    },
+    {
+      "source": 160,
+      "category": "floral",
+      "product": "FL-031"
+    },
+    {
+      "source": 161,
+      "category": "floral",
+      "product": "FL-032"
+    },
+    {
+      "source": 162,
+      "category": "events"
+    },
+    {
+      "source": 163,
+      "category": "floral",
+      "product": "FL-033"
+    },
+    {
+      "source": 164,
+      "category": "floral",
+      "product": "FL-034"
+    },
+    {
+      "source": 165,
+      "category": "floral",
+      "product": "FL-035"
+    },
+    {
+      "source": 166,
+      "category": "events"
+    },
+    {
+      "source": 167,
+      "category": "floral",
+      "product": "FL-036"
+    },
+    {
+      "source": 168,
+      "category": "events"
+    },
+    {
+      "source": 169,
+      "category": "floral",
+      "product": "FL-037"
+    },
+    {
+      "source": 170,
+      "category": "floral",
+      "product": "FL-038"
+    },
+    {
+      "source": 171,
+      "category": "floral",
+      "product": "FL-040"
+    },
+    {
+      "source": 172,
+      "category": "floral",
+      "product": "FL-039"
+    },
+    {
+      "source": 173,
+      "category": "events"
+    },
+    {
+      "source": 174,
+      "category": "floral",
+      "product": "FL-041"
+    },
+    {
+      "source": 175,
+      "category": "events"
+    },
+    {
+      "source": 176,
+      "category": "floral",
+      "product": "FL-042"
+    },
+    {
+      "source": 177,
+      "category": "events"
+    },
+    {
+      "source": 178,
+      "category": "excluded",
+      "reason": "FotografÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a personal de un bebÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© sin producto floral ni montaje de evento; fuera del alcance de las colecciones."
+    },
+    {
+      "source": 179,
+      "category": "events"
+    },
+    {
+      "source": 180,
+      "category": "events"
+    },
+    {
+      "source": 181,
+      "category": "events"
+    },
+    {
+      "source": 182,
+      "category": "events"
+    },
+    {
+      "source": 183,
+      "category": "events"
+    },
+    {
+      "source": 184,
+      "category": "events"
+    },
+    {
+      "source": 185,
+      "category": "events"
+    },
+    {
+      "source": 186,
+      "category": "events"
+    },
+    {
+      "source": 187,
+      "category": "events"
+    },
+    {
+      "source": 188,
+      "category": "events"
+    },
+    {
+      "source": 189,
+      "category": "events"
+    },
+    {
+      "source": 190,
+      "category": "floral",
+      "product": "FL-043"
+    },
+    {
+      "source": 191,
+      "category": "events"
+    },
+    {
+      "source": 192,
+      "category": "events"
+    },
+    {
+      "source": 193,
+      "category": "events"
+    },
+    {
+      "source": 194,
+      "category": "video"
+    },
+    {
+      "source": 195,
+      "category": "video"
+    },
+    {
+      "source": 196,
+      "category": "video"
+    },
+    {
+      "source": 197,
+      "category": "video"
+    },
+    {
+      "source": 198,
+      "category": "video"
+    },
+    {
+      "source": 199,
+      "category": "video"
+    }
+  ]
+}
