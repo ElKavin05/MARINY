@@ -61,3 +61,13 @@ html{scroll-padding-top:166px}.site-header{background:#fffffff5}.header-inner{mi
 .service-photo img[src$="cumpleanos-floral.webp"]{object-position:50% 32%}.service-photo img[src$="detalle-floral-mama.webp"]{object-position:50% 45%}.gallery-image img[src$="detalle-floral-mama.webp"]{object-position:50% 43%}
 
 .service-photo img[src$="cena-prenupcial.webp"]{object-position:50% 42%}
+
+/* Wedding photograph in the main hero, reusing the approved retouched asset. */
+.wedding-stage{min-height:780px}
+.wedding-photo{position:absolute;inset:24px 42px 110px;overflow:hidden;border-radius:160px 160px 6px 6px}
+.wedding-photo img{height:100%;width:100%;object-fit:cover;object-position:50% 62%}
+.wedding-stage .spark-one{left:3%;top:20%}
+.wedding-stage .spark-three{right:3%;bottom:25%}
+@media(max-width:1050px){.wedding-stage{min-height:720px}.wedding-photo{inset:24px 25px 110px}}
+@media(max-width:767px){.wedding-stage{min-height:620px;height:clamp(620px,145vw,760px)}.wedding-photo{inset:20px 20px 110px;border-radius:140px 140px 5px 5px}}
+@media(max-width:350px){.wedding-stage{height:570px;min-height:570px}.wedding-photo{inset:18px 14px 104px}}

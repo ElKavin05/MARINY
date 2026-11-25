@@ -52,3 +52,6 @@ QA local: 320/390/768/1087/1440 px sin desbordamiento ni imágenes con src rotas
 - Dos visores independientes,Tab/Shift-Tab,flechas,Escape y foco de retorno. Enlaces directos a producto fuera del primer lote. Galería y formulario anteriores conservados.
 - Los6videos se reproducen,dimensiones efectivas verticales,solo uno activo,pausa fuera de vista,carrusel manual,movimiento reducido. Recuperación al fallar collections.json mediante Reintentar.
 - scripts/verify-collections.cjs conserva comprobaciones de contenido y activos. Pruebas navegador y capturas:tmp/collections/qa.cjs,failure-qa.cjs,ui-*.png,events-*.png,videos-*.png. El servidor de prueba admite rangos HTTP para videos.
+
+
+25/11/2026, portada de novios: sustituida acuarela floral por assets/retouched/evento-01.webp existente. Foto sin modificar; encuadre50%/62%, arco y pie adaptados a bodas. QA320/390/768/1440: foto decodificada, cero desbordamiento/erroresJS, CTA a#consulta y ausencia de acuarela en portada. Capturas revisadas en tmp/wedding-hero-*.png.
