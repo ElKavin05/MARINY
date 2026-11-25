@@ -34,3 +34,8 @@ Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga vis
 19/11/2026, tres fotografías nuevas: tarjetas y galería actualizadas. Recortes de catálogo escritorio y móvil revisados. QA320/390/768/1440 sin overflow, imágenes rotas o errores JS. Selección WhatsApp de las cinco categorías correcta; filtros y modal/Escape correctos. Conteos actuales: Todos9, Bodas2, Corporativos2, Despedidas2, Cumpleaños2, Detalles3, Con globos3. Las fotos nuevas se adscriben a las categorías indicadas por Kevin.
 
 19/11/2026 foto prenupcial: revisada tarjeta a390/1440px, imagen cargada sin overflow. Galería filtrada amplía cena-prenupcial.webp y cierra con Escape, sin errores JS.
+
+
+Actualización 25/11/2026: las cuatro franjas mantienen una sola frase fija, con bordes superior e inferior ondulantes. Recurso alfa VP9 WebM de 6 s, 960×64, 24 fps (255925 bytes), creado con GSAP y HyperFrames; fuente editable en motion/ribbons y fallback SVG. Reproducción automática solo visible, sin controles; pausa técnica fuera de pantalla, pestaña oculta, ahorro de datos y movimiento reducido. La segunda tarjeta es «Celebraciones nupciales», con descripción de recepción y CTA vinculado a la opción existente «Bodas y compromisos». Las demás categorías se conservan.
+
+QA local: 320/390/768/1087/1440 px sin desbordamiento ni imágenes con src rotas. Cuatro franjas y ocho bordes reproduciéndose; texto inmóvil entre muestras, sin duplicados. Reduced-motion muestra SVG estático. Tarjeta y sus dos CTA seleccionan Bodas y compromisos; formulario prepara mensaje correcto sin enviarlo. Todos los filtros de galería, modal, flechas y Escape correctos; cero errores JS. HyperFrames check: cero errores ni avisos; snapshots 0/1.5/3/5.95 s revisados.

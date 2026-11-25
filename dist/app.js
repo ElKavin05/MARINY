@@ -184,17 +184,26 @@ document.querySelectorAll('.dynamic-frame').forEach(frame => {
   frame.insertAdjacentHTML('afterbegin', '<svg class="frame-trace" viewBox="0 0 500 500" preserveAspectRatio="none" aria-hidden="true"><rect x="1" y="1" width="498" height="498" rx="25" pathLength="100"/></svg><span class="frame-star" aria-hidden="true">✧</span>');
 });
 
-document.querySelectorAll('.ribbon-divider').forEach(ribbon => {
-  const fallback = document.createElement('span');
-  fallback.className = 'ribbon-static';
-  fallback.setAttribute('aria-hidden','true');
-  const start = document.createElement('span'); start.className='static-star'; start.textContent='✦';
-  const phrase = document.createElement('span'); phrase.textContent=ribbon.getAttribute('aria-label');
-  fallback.append(start, phrase, start.cloneNode(true)); ribbon.append(fallback);
-});
-
 document.querySelectorAll('[data-location-city]').forEach(link => {
   link.href = whatsappUrl(`Hola, Mariny Events. Me gustaría consultar el punto de atención en ${link.dataset.locationCity} y coordinar una consulta sobre mi evento.`);
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
 });
+
+// Each band keeps its wording fixed; only its two decorative edges play the same loop.
+const ribbonVideos=[...document.querySelectorAll('.ribbon-video')];
+const ribbonMotion=matchMedia('(prefers-reduced-motion:reduce)');
+const visibleRibbons=new Set();
+function updateRibbonMotion(){
+  for(const video of ribbonVideos){
+    const band=video.closest('.ribbon-wave'),edge=video.closest('.ribbon-edge');
+    const allowed=visibleRibbons.has(band)&&!document.hidden&&!ribbonMotion.matches&&!navigator.connection?.saveData;
+    if(!allowed||!video.canPlayType('video/webm; codecs="vp9"')){video.pause();edge.classList.remove('has-video');continue;}
+    if(!video.getAttribute('src'))video.src=video.dataset.src;
+    video.play().then(()=>{if(visibleRibbons.has(band)&&!document.hidden&&!ribbonMotion.matches)edge.classList.add('has-video');else updateRibbonMotion();}).catch(()=>edge.classList.remove('has-video'));
+  }
+}
+for(const video of ribbonVideos)video.addEventListener('error',()=>video.closest('.ribbon-edge').classList.remove('has-video'));
+ribbonMotion.addEventListener('change',updateRibbonMotion);
+document.addEventListener('visibilitychange',updateRibbonMotion);
+if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{for(const entry of entries){if(entry.isIntersecting)visibleRibbons.add(entry.target);else visibleRibbons.delete(entry.target);}updateRibbonMotion();});document.querySelectorAll('.ribbon-wave').forEach(band=>observer.observe(band));}
