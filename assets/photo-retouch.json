@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-25",
+  "method": "Non-generative tonal correction and restrained sharpening from originals",
+  "heroExcluded": true,
+  "photos": [
+    {
+      "source": "assets/originals/cena-prenupcial.jpg",
+      "target": "dist/assets/retouched/cena-prenupcial.webp",
+      "sourceSha256": "bf20cf873384763c69e82f1d319a2f9ab53faa8dab9633bb8275831db82c5370",
+      "outputSha256": "66128bafa4830c79788dd67c88da8e04ca5ee787ac01dbe7298ff7ee253e2db8",
+      "width": 960,
+      "height": 1280,
+      "bytes": 225582,
+      "gamma": 1.055,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/cumpleanos-floral.jpg",
+      "target": "dist/assets/retouched/cumpleanos-floral.webp",
+      "sourceSha256": "517694642f6cd1b9b646cc3ca24f026921ac831c21452e014c3357a6edebfc6a",
+      "outputSha256": "431d27faf483ae7a489366bcc779c4fba3ec8e86d5b9c7b09728e8933acebcc9",
+      "width": 1280,
+      "height": 960,
+      "bytes": 208798,
+      "gamma": 1.055,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/detalle-floral-mama.jpg",
+      "target": "dist/assets/retouched/detalle-floral-mama.webp",
+      "sourceSha256": "b9f61276033c75c144699a92b01837e347252f990a6e96c850ffd9734dc5bbf1",
+      "outputSha256": "afc9be9ff3454e0160bfe0c416873b42f3e213a28fca1a652bc2f33d6d2ab0f4",
+      "width": 960,
+      "height": 1280,
+      "bytes": 226652,
+      "gamma": 1.015,
+      "gain": 1.015,
+      "offset": -1
+    },
+    {
+      "source": "assets/originals/01.jpg",
+      "target": "dist/assets/retouched/evento-01.webp",
+      "sourceSha256": "6e3d92f44596d52b6a0ab0cfeb9e21927c9717bd10925f352929c8e4aaf15950",
+      "outputSha256": "bf30cc96e2eb28d35e806728cf6cf774d92b09adf1bfc2a39970fae1718a5e4d",
+      "width": 902,
+      "height": 1598,
+      "bytes": 176890,
+      "gamma": 1.1,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/02.jpg",
+      "target": "dist/assets/retouched/evento-02.webp",
+      "sourceSha256": "2bde42ca7f9cbd3d15992a40bc66cec7c11817f08951b97cfef175596bb8a478",
+      "outputSha256": "846e1c7a23d6a34db446a95341421bffe1770230948817681aa28c05182877d5",
+      "width": 1320,
+      "height": 2347,
+      "bytes": 227744,
+      "gamma": 1.025,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/03.jpg",
+      "target": "dist/assets/retouched/evento-03.webp",
+      "sourceSha256": "2a3ac1f56fc83eac46234e3bf0638f006373efe1f5b15fe03fa13a9431a64a0a",
+      "outputSha256": "52b9bdf2b6f437a7cc4434c9b5102730a16a4d88ad48d6d31f034573e311b4c8",
+      "width": 1320,
+      "height": 2347,
+      "bytes": 304850,
+      "gamma": 1.045,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/05.jpg",
+      "target": "dist/assets/retouched/evento-05.webp",
+      "sourceSha256": "582f21ca158e07008e36e674f6911368b101beddb3a74ef2b6fb2c01bc7eabe9",
+      "outputSha256": "46055e9ca07d388c99348e6fa50e27b5d8e5f2e1e6c1e0ed8394634144ccbc0b",
+      "width": 1320,
+      "height": 2347,
+      "bytes": 184982,
+      "gamma": 1.025,
+      "gain": 1.02,
+      "offset": -1
+    },
+    {
+      "source": "assets/originals/06.jpg",
+      "target": "dist/assets/retouched/evento-06.webp",
+      "sourceSha256": "984fd1e4d97cf855a8669b5e0733f9c4fd41133ba3770e6c3d9984aa920fa073",
+      "outputSha256": "3a27e5540bf1cbcaaabd3cc1ae21310cfda11fca0ef8b40306ed4250dfbbdf57",
+      "width": 1217,
+      "height": 2160,
+      "bytes": 390540,
+      "gamma": 1.08,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/07.jpg",
+      "target": "dist/assets/retouched/evento-07.webp",
+      "sourceSha256": "2fbf4097505ec6abd2a223453c059e0a07fe39c0dfbad803b3154afe47b73a6c",
+      "outputSha256": "284639b894f29c44f928b018efd5859c3368a73b4213ad5969019853725fe9df",
+      "width": 720,
+      "height": 1280,
+      "bytes": 84136,
+      "gamma": 1.045,
+      "gain": 1.025,
+      "offset": -1.5
+    },
+    {
+      "source": "assets/originals/08.jpg",
+      "target": "dist/assets/retouched/evento-08.webp",
+      "sourceSha256": "03006812522b6521f7f80fbd4bc180553528ddaeca6e13364504b6ed7ced8460",
+      "outputSha256": "93545ce915a8edba33324a27b465b70099dcf38f8826dbae7db570311190cde8",
+      "width": 1320,
+      "height": 2347,
+      "bytes": 131294,
+      "gamma": 1.02,
+      "gain": 1.02,
+      "offset": -1
+    },
+    {
+      "source": "assets/originals/12.jpg",
+      "target": "dist/assets/retouched/evento-12.webp",
+      "sourceSha256": "2efdaa3c8e88ce2fc04137834ce6afc459b58cbfa77fe82f06f1bc997963c27f",
+      "outputSha256": "fb1d16cd42ffbb29831187f6dcabac260159f94d90452dec7eef95e9473fad2e",
+      "width": 1320,
+      "height": 2347,
+      "bytes": 205540,
+      "gamma": 1.01,
+      "gain": 1.01,
+      "offset": -1
+    },
+    {
+      "source": "assets/originals/eventos-corporativos.jpg",
+      "target": "dist/assets/retouched/eventos-corporativos.webp",
+      "sourceSha256": "6c86de46965cf31d2f288f487dd045b40cff4df40f5b53d59d65757ed83dad33",
+      "outputSha256": "191bbbe5009d4b526871a9fea2ab1b9b04951e035135dcd8c823db353c5a4183",
+      "width": 1280,
+      "height": 853,
+      "bytes": 156722,
+      "gamma": 1.025,
+      "gain": 1.02,
+      "offset": -1
+    }
+  ]
+}

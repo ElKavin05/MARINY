@@ -55,7 +55,7 @@ const photographs = [
     "title": "Flores para recibir a tus invitados",
     "alt": "Salón con mesas vestidas de blanco, centros florales altos y detalles dorados",
     "description": "Un salón preparado con flores blancas, mesas y detalles dorados para acompañar un encuentro especial.",
-    "src": "assets/eventos-corporativos.webp"
+    "src": "assets/retouched/eventos-corporativos.webp"
   },
   {
     "id": 5,
@@ -65,7 +65,7 @@ const photographs = [
     "title": "Una mesa para celebrar a la novia",
     "alt": "Mesa larga para celebración prenupcial con flores blancas, velas, copas verdes y detalles dorados",
     "description": "Flores blancas, velas, copas verdes y detalles dorados en una mesa preparada para compartir una celebración prenupcial.",
-    "src": "assets/cena-prenupcial.webp"
+    "src": "assets/retouched/cena-prenupcial.webp"
   },
   {
     "id": 3,
@@ -75,7 +75,7 @@ const photographs = [
     "title": "Un detalle para mamá",
     "alt": "Caja floral Mariny con tulipanes rosados, rosas amarillas y espejo con dedicatoria para mamá",
     "description": "Un detalle floral para mamá con tulipanes, rosas, lazos y una dedicatoria que dice lo que sientes.",
-    "src": "assets/detalle-floral-mama.webp"
+    "src": "assets/retouched/detalle-floral-mama.webp"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@ const photographs = [
     "title": "Un cumpleaños entre flores",
     "alt": "Mesa de cumpleaños con flores rosadas, velas y letras Happy Birthday al fondo",
     "description": "Flores rosadas, velas y una mesa preparada con cariño para celebrar un cumpleaños. Las letras con globos acompañan el montaje floral.",
-    "src": "assets/cumpleanos-floral.webp",
+    "src": "assets/retouched/cumpleanos-floral.webp",
     "balloons": true
   },
   {
@@ -127,7 +127,7 @@ const position = document.querySelector('#photo-position');
 let activePhotos = photographs;
 let photoIndex = 0;
 let galleryTrigger;
-const photoSrc = photo => photo.src || `assets/evento-${String(photo.id).padStart(2,'0')}.webp`;
+const photoSrc = photo => photo.src || `assets/retouched/evento-${String(photo.id).padStart(2,'0')}.webp`;
 function showPhoto() {
   const photo = activePhotos[photoIndex];
   dialogImage.src = photoSrc(photo);
