@@ -69,6 +69,10 @@ for i,group in enumerate(groups):
     source=ROOT/f'assets/catalogue-originals/nov25/photo-{number}.jpg'
     original=ImageOps.exif_transpose(Image.open(source)).convert('RGB')
     w,h=original.size
+    if group.get('useOriginal'):
+        manifest.append({'productId':group['id'],'name':group['name'],'sourceIndex':number,'take':take,'phrase':None,'original':str(source.relative_to(ROOT)).replace('\\','/'),'caption':None,'fileName':source.name,'method':'Unmodified original JPEG, copied byte-for-byte by explicit client request','cardsRemoved':False,'cardRemovalMethod':None,'width':w,'height':h,'useOriginal':True})
+        print(number,group['id'],take,'original',flush=True)
+        continue
     if number==86:
         # Remove the external white promotional overlay by local photographic healing.
         base=np.array(original);mask=np.zeros((h,w),np.uint8)

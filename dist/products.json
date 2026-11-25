@@ -71,8 +71,8 @@
     "price": null,
     "images": [
       {
-        "src": "catalogue/edited/MAD-088-toma-1.webp",
-        "full": "catalogue/edited/MAD-088-toma-1-full.webp",
+        "src": "catalogue/original/MAD-088.jpg",
+        "full": "catalogue/original/MAD-088.jpg",
         "sourceIndex": 88,
         "alt": "Jardín en rosa. Rosas y flores en tonos rosados y lilas en caja rectangular con lazo claro."
       }

@@ -40,3 +40,6 @@ Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga vis
 
 
 25/11/2026, corrección de fotografías nuevas: retiradas11tarjetas físicas en13fotos, enfoque moderado y26WebP reexportados. Ocho reparaciones locales de imagen conservadas con sus posiciones; retoque fotográfico de canasta en3tomas. Revisión visual de las13salidas.89productos idénticos a9bf5400,13fuentes intactas y84fotos anteriores/portada/videos sin cambios.
+
+
+25/11/2026, excepción MAD-088 «Jardín en rosa»: por petición expresa de Kevin, usar la fotografía original sin ninguna edición, con fondo, tarjeta y encuadre originales. Publicada como catalogue/original/MAD-088.jpg; copia JPEG idéntica por bytes a assets/catalogue-originals/nov25/photo-88.jpg(278099bytes,1200×1600). useOriginal:true impide volver a aplicar recorte, frase o eliminación de tarjeta al reproducir el lote. Solo cambian src/full de esa fotografía; resto de productos e imágenes activos intactos.
