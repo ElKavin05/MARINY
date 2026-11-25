@@ -34,3 +34,6 @@ Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga vis
 19/11/2026, tres fotografías nuevas: tarjetas y galería actualizadas. Recortes de catálogo escritorio y móvil revisados. QA320/390/768/1440 sin overflow, imágenes rotas o errores JS. Selección WhatsApp de las cinco categorías correcta; filtros y modal/Escape correctos. Conteos actuales: Todos9, Bodas2, Corporativos2, Despedidas2, Cumpleaños2, Detalles3, Con globos3. Las fotos nuevas se adscriben a las categorías indicadas por Kevin.
 
 19/11/2026 foto prenupcial: revisada tarjeta a390/1440px, imagen cargada sin overflow. Galería filtrada amplía cena-prenupcial.webp y cierra con Escape, sin errores JS.
+
+
+25/11/2026:8nuevos productos primero,MAD-085…092;81anteriores idénticos por comparación profunda;89productos/97fotos.13fuentes con hash intacto,26WebP nuevos decodificados y proporción4:5. Revisión visual de las13ediciones y tarjetas adaptadas. Portada HTML intacta. QA navegador320/390/768/1440:89tarjetas,sin overflow,imágenes cargadas,filtros,cantidades persistentes/validadas,visores/flechas/Escape/foco,aclaración conjunta en MAD-086 sin filtrarse a otras tarjetas,2videos y89mensajes WhatsApp correctos sin enviar. Capturas y prueba:tmp/mothers-nov25/qa.cjs. Validación permanente:scripts/verify-mothers-nov25.cjs.

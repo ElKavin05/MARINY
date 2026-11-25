@@ -4,6 +4,7 @@ const errorNotice = document.querySelector('#load-error');
 const gallery = document.querySelector('#gallery');
 const galleryPhoto = document.querySelector('#gallery-photo');
 const galleryTitle = document.querySelector('#gallery-title');
+const galleryCaption = document.querySelector('#gallery-caption-note');
 const position = document.querySelector('#gallery-position');
 const previous = document.querySelector('#previous-photo');
 const next = document.querySelector('#next-photo');
@@ -97,6 +98,8 @@ function renderGalleryPhoto() {
   galleryPhoto.src = image.full;
   galleryPhoto.alt = image.alt;
   galleryTitle.textContent = currentProduct.name;
+  galleryCaption.textContent = image.caption || '';
+  galleryCaption.hidden = !image.caption;
   position.textContent = 'Foto ' + (photoIndex + 1) + ' de ' + currentProduct.images.length;
   previous.disabled = currentProduct.images.length < 2;
   next.disabled = currentProduct.images.length < 2;
