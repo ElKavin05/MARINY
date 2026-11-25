@@ -1,0 +1,98 @@
+{
+  "MAD-087-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-087-toma-1.png",
+    "position": [
+      575,
+      380
+    ],
+    "size": [
+      300,
+      265
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-088-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-088-toma-1.png",
+    "position": [
+      620,
+      390
+    ],
+    "size": [
+      315,
+      235
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-089-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-089-toma-1.png",
+    "position": [
+      490,
+      500
+    ],
+    "size": [
+      295,
+      185
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-090-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-090-toma-1.png",
+    "position": [
+      410,
+      655
+    ],
+    "size": [
+      185,
+      180
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-090-toma-2": {
+    "file": "assets/catalogue-edited/card-removal/MAD-090-toma-2.png",
+    "position": [
+      435,
+      660
+    ],
+    "size": [
+      160,
+      170
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-091-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-091-toma-1.png",
+    "position": [
+      505,
+      440
+    ],
+    "size": [
+      195,
+      245
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-091-toma-2": {
+    "file": "assets/catalogue-edited/card-removal/MAD-091-toma-2.png",
+    "position": [
+      490,
+      445
+    ],
+    "size": [
+      195,
+      245
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  },
+  "MAD-092-toma-1": {
+    "file": "assets/catalogue-edited/card-removal/MAD-092-toma-1.png",
+    "position": [
+      445,
+      395
+    ],
+    "size": [
+      210,
+      180
+    ],
+    "method": "Built-in image edit limited to occluding card region; existing photo retained elsewhere"
+  }
+}

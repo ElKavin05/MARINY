@@ -1,0 +1,7 @@
+# Reparaciones locales de tarjetas · 2026-11-25
+
+Herramienta: ImageGen integrado, edición precisa de objeto. Se revisaron ocho salidas y se guardan únicamente recortes RGBA en esta carpeta. patches.json indica su posición en el lienzo1120×1400. Los píxeles fuera de esos recortes, las frases superiores y el fondo general proceden de la receta fotográfica original. Las zonas antes ocultas por una tarjeta reciben reconstrucción localizada; no es un retoque enteramente no generativo.
+
+Prompt aplicado a cada toma: Remove the ENTIRE physical greeting card reading “Para mamá, con amor”, including paper borders and stick. Restore only its small occluded area naturally with nearby stems/petals, pink wrapping or plain blush backdrop as appropriate. Preserve the exact arrangement, flower colors and placement, vase/basket, ribbons, camera angle, composition, top cursive caption and background. No replacement card, no blank rectangular silhouette, no blurry patch, no redesign. For MAD-088 preserve the pink envelope/container and remove only the separate white card. For MAD-090 remove both the overlaid tag and the underlying card in the center; do not add a rose.
+
+Las salidas completas se conservan localmente en la carpeta de imágenes generadas de Codex. Solo se integran los recortes aquí guardados. Las otras tres tarjetas de la canasta se eliminan con textura fotográfica de la misma canasta. Los originales nunca se sobrescriben.

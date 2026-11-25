@@ -2,7 +2,7 @@
 Dependencies: Pillow, numpy, OpenCV. Segmentation PNGs are supplied by rembg.
 Coordinates refer to a 600 x 800 inspection copy, then scale to native pixels.
 """
-import json, hashlib, sys
+import json, sys
 from pathlib import Path
 import cv2
 import numpy as np
@@ -41,28 +41,26 @@ if '--segment' in sys.argv:
         original.putalpha(alpha);original.save(target)
     with ThreadPoolExecutor(max_workers=2) as pool:list(pool.map(segment,range(85,98)))
 
-def card_overlay(original, number):
-    if number not in CARDS:return original
+def remove_cards(original, alpha, number):
+    if number not in [86,89,96]:return original,alpha
     w,h=original.size
-    paper=Image.new('RGBA',(500,300),'#FAF0EB');d=ImageDraw.Draw(paper)
-    d.rectangle((11,11,488,288),outline='#BFA39E',width=3)
-    f=ImageFont.truetype(FONT,65)
-    for text,y in [('Para mamá,',65),('con amor',150)]:
-        box=d.textbbox((0,0),text,font=f);d.text(((500-(box[2]-box[0]))/2,y),text,font=f,fill=INK)
-    points=np.array([(x*w/600,y*h/800) for x,y in CARDS[number]],dtype=np.float32)
-    matrix=cv2.getPerspectiveTransform(np.float32([[0,0],[499,0],[499,299],[0,299]]),points)
-    layer=cv2.warpPerspective(np.array(paper),matrix,(w,h),flags=cv2.INTER_CUBIC)
-    base=np.array(original.convert('RGB'));hsv=cv2.cvtColor(base,cv2.COLOR_RGB2HSV)
-    # Preserve the actual petals, stems and leaves that pass in front of the card.
-    protected=((hsv[:,:,0]>110)&(hsv[:,:,1]>85)&(hsv[:,:,2]>80))|((hsv[:,:,0]<10)&(hsv[:,:,1]>160)&(hsv[:,:,2]>130))|((hsv[:,:,0]>30)&(hsv[:,:,0]<105)&(hsv[:,:,1]>35))
-    if number in [86,89,96]:protected[:]=False
-    occlusions={91:[[(220,390),(250,380),(270,357),(305,350),(324,365),(320,430),(215,430)]],97:[[(254,360),(281,353),(301,380),(284,410),(251,401)]]}
-    occlusion=np.zeros((h,w),np.uint8)
-    for polygon in occlusions.get(number,[]):cv2.fillPoly(occlusion,[np.int32([(x*w/600,y*h/800) for x,y in polygon])],255)
-    protected|=occlusion>0
-    layer[protected,3]=0
-    result=original.convert('RGBA');result.alpha_composite(Image.fromarray(layer))
-    return result.convert('RGB')
+    pixels=np.array(original.convert('RGB'))
+    region=np.zeros((h,w),np.uint8)
+    cv2.fillPoly(region,[np.int32([(x*w/600,y*h/800) for x,y in CARDS[number]])],255)
+    region=cv2.dilate(region,np.ones((19,19),np.uint8))
+    if number in [86,89,96]:
+        # Remove the hanging label from the basket using local photographic healing.
+        # Its woven detail comes from the clean, unobstructed side of the same basket.
+        clean=np.array(Image.open(ROOT/'assets/catalogue-originals/nov25/photo-89.jpg').convert('RGB'))
+        ch,cw=clean.shape[:2]
+        sample=clean[round(525*ch/800):round(605*ch/800),round(215*cw/600):round(300*cw/600)]
+        tile=cv2.resize(sample,(max(50,round(w*.15)),max(50,round(h*.1))))
+        tile=cv2.copyMakeBorder(tile,0,tile.shape[0],0,tile.shape[1],cv2.BORDER_REFLECT)
+        pattern=np.tile(tile,(int(np.ceil(h/tile.shape[0])),int(np.ceil(w/tile.shape[1])),1))[:h,:w]
+        ys,xs=np.where(region>0);x0,x1=xs.min(),xs.max()+1;y0,y1=ys.min(),ys.max()+1
+        patch=pattern[y0:y1,x0:x1].copy();patchmask=region[y0:y1,x0:x1].copy()
+        pixels=cv2.seamlessClone(patch,pixels,patchmask,(int((x0+x1)//2),int((y0+y1)//2)),cv2.NORMAL_CLONE)
+    return Image.fromarray(pixels),alpha
 
 manifest=[]
 groups=json.loads((ROOT/'assets/catalogue-edited/nov25-products.json').read_text(encoding='utf-8'))
@@ -93,9 +91,9 @@ for i,group in enumerate(groups):
         clone_mask=cv2.GaussianBlur(clone_mask,(19,19),0).astype(float)/255
         base=(texture*clone_mask[:,:,None]+base*(1-clone_mask[:,:,None])).astype('uint8')
         original=Image.fromarray(base)
-    original=card_overlay(original,number)
     alpha=Image.open(ROOT/f'tmp/mothers-nov25/cutouts/{number}.png').getchannel('A')
     alpha=alpha.point(lambda value: max(0,min(255,round((value-22)*255/215))))
+    original,alpha=remove_cards(original,alpha,number)
     draw=ImageDraw.Draw(alpha)
     if number==97:
         draw.rectangle((0,round(h*.905),w,h),fill=0)
@@ -107,7 +105,7 @@ for i,group in enumerate(groups):
     # Keep source RGB, with restrained tonal correction and sharpening only.
     original=ImageEnhance.Brightness(original).enhance({89:1.14,91:1.10,92:1.07,94:1.07}.get(number,1.045))
     original=ImageEnhance.Contrast(original).enhance(1.015)
-    original=original.filter(ImageFilter.UnsharpMask(radius=.75,percent=45,threshold=3)).convert('RGBA')
+    original=original.filter(ImageFilter.UnsharpMask(radius=.9,percent=85,threshold=2)).convert('RGBA')
     original.putalpha(alpha)
     bbox=alpha.point(lambda value:255 if value>65 else 0).getbbox()
     if not bbox:raise ValueError(number)
@@ -125,7 +123,15 @@ for i,group in enumerate(groups):
     phrase=PHRASES[i%3];b=d.textbbox((0,0),phrase,font=font)
     d.text(((1120-(b[2]-b[0]))/2,46),phrase,font=font,fill=INK)
     path=OUT/f"{group['id']}-toma-{take}.png"
+    # Approved local repair patches remove occluding cards without replacing the
+    # rest of the arrangement, backdrop, caption or photographic composition.
+    repair_file=ROOT/'assets/catalogue-edited/card-removal/patches.json'
+    repairs=json.loads(repair_file.read_text(encoding='utf-8'))
+    repair=repairs.get(path.stem)
+    if repair:
+        patch=Image.open(ROOT/repair['file']).convert('RGBA')
+        canvas.alpha_composite(patch,tuple(repair['position']))
     canvas.convert('RGB').save(path)
-    manifest.append({'productId':group['id'],'name':group['name'],'sourceIndex':number,'take':take,'phrase':phrase,'original':str(source.relative_to(ROOT)).replace('\\','/'),'caption':'Vista conjunta; la consulta corresponde a la canasta de primer plano.' if number==96 else None,'fileName':path.name,'method':'Original-pixel cutout, photographic retouch and non-generative typography composition','cardsAdapted':number in CARDS,'width':1120,'height':1400})
+    manifest.append({'productId':group['id'],'name':group['name'],'sourceIndex':number,'take':take,'phrase':phrase,'original':str(source.relative_to(ROOT)).replace('\\','/'),'caption':'Vista conjunta; la consulta corresponde a la canasta de primer plano.' if number==96 else None,'fileName':path.name,'method':'Original-pixel cutout, photographic retouch and typography; localized image-edit repair only where card occluded product' if repair else 'Original-pixel cutout, photographic retouch and non-generative typography composition','cardsRemoved':number in CARDS,'cardRemovalMethod':'Local photographic basket healing' if number in [86,89,96] else ('Localized image-edit patch; remaining original pixels preserved' if number in CARDS else None),'width':1120,'height':1400})
     print(number,group['id'],take,flush=True)
 (ROOT/'assets/catalogue-edited/nov25-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

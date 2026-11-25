@@ -37,3 +37,6 @@ Sección Ubicación (18/11/2026): comprobados dos iframes Google Maps, carga vis
 
 
 25/11/2026:8nuevos productos primero,MAD-085…092;81anteriores idénticos por comparación profunda;89productos/97fotos.13fuentes con hash intacto,26WebP nuevos decodificados y proporción4:5. Revisión visual de las13ediciones y tarjetas adaptadas. Portada HTML intacta. QA navegador320/390/768/1440:89tarjetas,sin overflow,imágenes cargadas,filtros,cantidades persistentes/validadas,visores/flechas/Escape/foco,aclaración conjunta en MAD-086 sin filtrarse a otras tarjetas,2videos y89mensajes WhatsApp correctos sin enviar. Capturas y prueba:tmp/mothers-nov25/qa.cjs. Validación permanente:scripts/verify-mothers-nov25.cjs.
+
+
+25/11/2026, corrección de fotografías nuevas: retiradas11tarjetas físicas en13fotos, enfoque moderado y26WebP reexportados. Ocho reparaciones locales de imagen conservadas con sus posiciones; retoque fotográfico de canasta en3tomas. Revisión visual de las13salidas.89productos idénticos a9bf5400,13fuentes intactas y84fotos anteriores/portada/videos sin cambios.

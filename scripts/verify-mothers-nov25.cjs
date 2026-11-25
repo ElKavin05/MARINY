@@ -8,6 +8,11 @@ const sharp=require(process.env.SHARP_MODULE||'sharp');
  const sources=JSON.parse(fs.readFileSync('assets/catalogue-edited/nov25-sources.json','utf8'));
  assert.deepEqual(products.slice(8),baseline);
  assert.equal(products.length,89);assert.equal(products.reduce((n,p)=>n+p.images.length,0),97);
+ const currentBaseline=JSON.parse(execFileSync('git',['show','9bf5400:dist/products.json'],{encoding:'utf8'}));
+ assert.deepEqual(products,currentBaseline,'Image-only correction must preserve all product data');
+ const additions=manifest.filter(m=>m.sourceIndex>=85);
+ assert.equal(additions.filter(m=>m.cardsRemoved).length,11);
+ assert.ok(additions.every(m=>!Object.hasOwn(m,'cardsAdapted')));
  assert.equal(manifest.length,97);assert.equal(new Set(manifest.map(m=>m.sourceIndex)).size,97);
  for(const [i,p]of products.slice(0,8).entries()){assert.equal(p.id,`MAD-${String(i+85).padStart(3,'0')}`);assert.equal(p.price,null);assert.equal(p.category,'Arreglos en base');}
  let bytes=0;
